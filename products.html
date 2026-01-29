@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - ExcavatorPartsPro</title>
+    <link rel="icon" type="image/jpeg" href="images/logo/logo.jpg">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <!-- Navigation -->
+    <header class="site-header">
+        <div class="container">
+            <nav class="navbar">
+                <a href="index.html" class="logo">
+                    <img src="images/logo/logo.jpg" alt="ExcavatorPartsPro company logo" class="logo-img">
+                    <span>ExcavatorPartsPro</span>
+                </a>
+                <ul class="nav-menu">
+                    <li><a href="products.html" class="active">Products</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Search Section -->
+    <section class="search-section">
+        <div class="container">
+            <div class="search-container">
+                <i class="fas fa-search"></i>
+                <input type="search" id="product-search" placeholder="Search by part name, part number, or brand..."
+                    class="search-input" aria-label="Search by part name, part number, or brand">
+                <button class="search-clear" id="search-clear" style="display: none;" aria-label="Clear search"
+                    title="Clear search">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="search-results-info" id="search-results-info" style="display: none;">
+                Found <span id="search-count">0</span> products
+            </div>
+        </div>
+    </section>
+
+    <!-- Pagination Top -->
+    <section class="pagination-section pagination-top">
+        <div class="container">
+            <div class="pagination-wrapper" id="pagination-top"></div>
+        </div>
+    </section>
+
+    <!-- Products Grid -->
+    <section class="products-section">
+        <div class="container">
+            <div class="products-grid" id="products-grid">
+                <!-- Products loaded dynamically -->
+            </div>
+            <div class="loading-state" id="loading-state">
+                <div class="spinner"></div>
+                <p>Loading products...</p>
+            </div>
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <i class="fas fa-search"></i>
+                <h3>No products found</h3>
+                <p>Try adjusting your search terms.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pagination Bottom -->
+    <section class="pagination-section pagination-bottom">
+        <div class="container">
+            <div class="pagination-wrapper" id="pagination-bottom"></div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2025 ExcavatorPartsPro. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="products.js"></script>
+</body>
+
+</html>

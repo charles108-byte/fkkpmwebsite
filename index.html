@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExcavatorPartsPro - Excavator Parts Catalog</title>
+    <link rel="icon" type="image/jpeg" href="images/logo/logo.jpg">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <!-- Navigation -->
+    <header class="site-header">
+        <div class="container">
+            <nav class="navbar">
+                <a href="index.html" class="logo">
+                    <img src="images/logo/logo.jpg" alt="ExcavatorPartsPro company logo" class="logo-img">
+                    <span>ExcavatorPartsPro</span>
+                </a>
+                <ul class="nav-menu">
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero / Professional Intro Section -->
+    <section class="hero-section" aria-labelledby="hero-title">
+        <div class="container hero-layout">
+            <!-- Left: Text content -->
+            <div class="hero-copy">
+                <p class="hero-kicker">Excavator Parts</p>
+                <h1 id="hero-title" class="hero-main-title">
+                    Specialized Production &amp; Quality Assurance
+                </h1>
+                <p class="hero-subtitle">
+                    QUALITY ASSURANCE &middot; VARIOUS SPECIFICATIONS
+                </p>
+
+                <div class="hero-label" aria-label="Specialized production badge">
+                    SPECIALIZED PRODUCTION
+                </div>
+
+                <p class="hero-description">
+                    The company has been adhering to the &quot;Quality First, Integrity First, Customer First&quot;
+                    business philosophy. In the field of engineering machinery, it has good competitiveness,
+                    development potential, and a solid reputation among professional buyers.
+                </p>
+
+                <hr class="hero-divider" aria-hidden="true">
+
+                <div class="hero-bottom">
+                    <h2 class="hero-secondary-title">WE ARE PROFESSIONAL</h2>
+                    <p class="hero-secondary-text">
+                        Professionalism is not what we say ourselves, but what others recognize.
+                    </p>
+                    <a href="contact.html" class="hero-contact-link">
+                        Need excavator parts support? Contact our sales engineer &raquo;
+                    </a>
+                </div>
+            </div>
+
+            <!-- Right: Visual carousel -->
+            <div class="hero-visual">
+                <div class="hero-carousel" id="hero-carousel">
+                    <div class="hero-slide active">
+                        <img src="images/nav/1.png"
+                            alt="Excavator hydraulic pump parts hero visual - industrial background 1">
+                    </div>
+                    <div class="hero-slide">
+                        <img src="images/nav/2.png"
+                            alt="Excavator hydraulic pump parts hero visual - industrial background 2">
+                    </div>
+                    <div class="hero-slide">
+                        <img src="images/nav/3.png"
+                            alt="Excavator hydraulic pump parts hero visual - industrial background 3">
+                    </div>
+                    <div class="hero-slide">
+                        <img src="images/nav/4.png"
+                            alt="Excavator hydraulic pump parts hero visual - industrial background 4">
+                    </div>
+
+                    <button class="hero-carousel-control prev" type="button" aria-label="Previous banner">
+                        &#10094;
+                    </button>
+                    <button class="hero-carousel-control next" type="button" aria-label="Next banner">
+                        &#10095;
+                    </button>
+
+                    <div class="hero-carousel-dots" id="hero-carousel-dots">
+                        <button class="hero-dot active" type="button" aria-label="Go to slide 1"></button>
+                        <button class="hero-dot" type="button" aria-label="Go to slide 2"></button>
+                        <button class="hero-dot" type="button" aria-label="Go to slide 3"></button>
+                        <button class="hero-dot" type="button" aria-label="Go to slide 4"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Home Products Preview -->
+    <section class="home-products-section">
+        <div class="container">
+            <h1 class="page-title">Professional Excavator Parts Catalog</h1>
+            <p class="page-subtitle">
+                Browse a selection of our best-selling excavator parts. Click "ALL PRODUCTS" to view the full catalog of
+                450 items.
+            </p>
+
+            <div class="home-products-wrapper">
+                <div class="products-grid" id="home-products-grid">
+                    <!-- Featured products loaded dynamically -->
+                </div>
+                <div class="loading-state" id="home-loading-state">
+                    <div class="spinner"></div>
+                    <p>Loading featured products...</p>
+                </div>
+            </div>
+
+            <div class="home-all-products">
+                <a href="products.html" class="btn-primary all-products-btn">
+                    ALL PRODUCTS
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2025 ExcavatorPartsPro. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="products.js"></script>
+    <script src="home.js"></script>
+    <script>
+        (function () {
+            const carousel = document.getElementById('hero-carousel');
+            if (!carousel) return;
+
+            const slides = carousel.querySelectorAll('.hero-slide');
+            const dots = carousel.querySelectorAll('.hero-dot');
+            const prevBtn = carousel.querySelector('.hero-carousel-control.prev');
+            const nextBtn = carousel.querySelector('.hero-carousel-control.next');
+
+            if (!slides.length) return;
+
+            let currentIndex = 0;
+            let autoTimer = null;
+            const interval = 3000;
+
+            function showSlide(index) {
+                slides.forEach((slide, i) => {
+                    slide.classList.toggle('active', i === index);
+                });
+                dots.forEach((dot, i) => {
+                    dot.classList.toggle('active', i === index);
+                });
+                currentIndex = index;
+            }
+
+            function nextSlide() {
+                const nextIndex = (currentIndex + 1) % slides.length;
+                showSlide(nextIndex);
+            }
+
+            function prevSlide() {
+                const prevIndex = (currentIndex - 1 + slides.length) % slides.length;
+                showSlide(prevIndex);
+            }
+
+            function restartTimer() {
+                if (autoTimer) {
+                    clearInterval(autoTimer);
+                }
+                autoTimer = setInterval(nextSlide, interval);
+            }
+
+            if (nextBtn) {
+                nextBtn.addEventListener('click', function () {
+                    nextSlide();
+                    restartTimer();
+                });
+            }
+
+            if (prevBtn) {
+                prevBtn.addEventListener('click', function () {
+                    prevSlide();
+                    restartTimer();
+                });
+            }
+
+            dots.forEach(function (dot, index) {
+                dot.addEventListener('click', function () {
+                    showSlide(index);
+                    restartTimer();
+                });
+            });
+
+            // Start auto rotation
+            showSlide(0);
+            restartTimer();
+        })();
+    </script>
+</body>
+
+</html>

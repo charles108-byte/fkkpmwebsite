@@ -1,0 +1,2819 @@
+{
+  "meta": {
+    "totalProducts": 60,
+    "productsPerPage": 12,
+    "totalPages": 1,
+    "lastUpdated": "2025-12-17"
+  },
+  "categories": [
+    {
+      "id": "hydraulic",
+      "name": "Hydraulic Components",
+      "count": 60
+    }
+  ],
+  "brands": [
+    {
+      "id": "others",
+      "name": "Others",
+      "count": 60
+    }
+  ],
+  "products": [
+    {
+      "id": "K3V112DT-hydraulic-pump",
+      "name": "K3V112DT Hydraulic Pump",
+      "partNumber": "K3V112DT",
+      "oemNumber": "9N24-14T",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 8,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "45.2 kg",
+      "dimensions": "35×28×32 cm",
+      "images": [
+        {
+          "url": "images/products/k3v112dt/K3V112DT hydraulic pump1.jpg",
+          "alt": "K3V112DT hydraulic pump front view showing mounting flange, control mechanism, and hydraulic ports - ГККРМ brand"
+        },
+        {
+          "url": "images/products/k3v112dt/K3V112DT hydraulic pump2.jpg",
+          "alt": "K3V112DT hydraulic pump tandem configuration view showing two connected pump units with electrical wiring and control components"
+        }
+      ],
+      "description": "High-performance K3V112DT hydraulic pump designed for excavators and heavy machinery. Features advanced control mechanism, durable construction, and excellent efficiency. Suitable for various excavator models including Komatsu, Caterpillar, and Hitachi.",
+      "specifications": {
+        "Model": "K3V112DT",
+        "Type": "Axial Piston Pump",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "112 cc/rev",
+        "Rotation": "Clockwise",
+        "Weight": "45.2 kg",
+        "Dimensions": "35×28×32 cm",
+        "Material": "High-grade cast iron",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Hitachi ZX200",
+        "Hitachi ZX220"
+      ],
+      "features": [
+        "High efficiency design",
+        "Durable construction",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Industrial grade materials"
+      ],
+      "tags": [
+        "hydraulic-pump",
+        "k3v112dt",
+        "excavator-parts"
+      ]
+    },
+    {
+      "id": "K5V200DPH-K3V63S-K7V125DTP-K3V112-WING-ASSEMBLY",
+      "name": "K5V200DPH/K3V63S/K7V125DTP/K3V112 WING ASSEMBLY",
+      "partNumber": "WING-ASSEMBLY",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Komatsu PC300",
+        "Caterpillar 320D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 10,
+      "stockStatus": "in-stock",
+      "leadTime": "5-7 business days",
+      "weight": "8.5 kg",
+      "dimensions": "25×20×18 cm",
+      "images": [
+        {
+          "url": "images/products/K5V200DPH,K3V63S,K7V125DTP,K3V112 WING ASSEMBLY/K5V200DPH,K3V63S WING ASSEMBLY.jpg",
+          "alt": "K5V200DPH/K3V63S/K7V125DTP/K3V112 WING ASSEMBLY front view showing wing assembly components for K5V200DPH and K3V63S hydraulic pumps"
+        },
+        {
+          "url": "images/products/K5V200DPH,K3V63S,K7V125DTP,K3V112 WING ASSEMBLY/K5V200DPH,K3V63S WING ASSEMBLY (2).jpg",
+          "alt": "K5V200DPH/K3V63S/K7V125DTP/K3V112 WING ASSEMBLY side view displaying wing assembly structure, mounting points, and technical specifications"
+        },
+        {
+          "url": "images/products/K5V200DPH,K3V63S,K7V125DTP,K3V112 WING ASSEMBLY/K7V125DTP SWING ASSEMBLY.jpg",
+          "alt": "K5V200DPH/K3V63S/K7V125DTP/K3V112 WING ASSEMBLY detailed view showing K7V125DTP swing assembly components and installation details"
+        },
+        {
+          "url": "images/products/K5V200DPH,K3V63S,K7V125DTP,K3V112 WING ASSEMBLY/K7V125DTP,K3V112 SWING ASSEMBLY.jpg",
+          "alt": "K5V200DPH/K3V63S/K7V125DTP/K3V112 WING ASSEMBLY comprehensive view displaying K7V125DTP and K3V112 swing assembly components, complete assembly structure, and application guide"
+        }
+      ],
+      "description": "High-quality WING ASSEMBLY designed for multiple hydraulic pump models including K5V200DPH, K3V63S, K7V125DTP, and K3V112. Features precision engineering, durable construction, and excellent compatibility. Suitable for various excavator models including Komatsu, Caterpillar, and Hitachi. Complete wing assembly for hydraulic pump maintenance and repair.",
+      "specifications": {
+        "Model": "WING-ASSEMBLY",
+        "Specification": "K5V200DPH/K3V63S/K7V125DTP/K3V112 WING ASSEMBLY",
+        "Type": "Hydraulic Pump Wing Assembly",
+        "Compatible Models": "K5V200DPH, K3V63S, K7V125DTP, K3V112",
+        "Maximum Pressure": "350 bar",
+        "Weight": "8.5 kg",
+        "Dimensions": "25×20×18 cm",
+        "Material": "High-grade cast iron and steel",
+        "Application": "Hydraulic Pump Assembly",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Komatsu PC300-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Hitachi ZX200",
+        "Hitachi ZX220",
+        "Hitachi ZX330"
+      ],
+      "features": [
+        "Precision engineered",
+        "Durable construction",
+        "Multi-model compatibility",
+        "Easy installation",
+        "OEM quality replacement",
+        "High pressure capability",
+        "Reliable performance",
+        "Complete assembly",
+        "Industrial grade materials",
+        "Long service life"
+      ],
+      "tags": [
+        "wing-assembly",
+        "hydraulic-pump",
+        "k5v200dph",
+        "k3v63s",
+        "k7v125dtp",
+        "k3v112",
+        "pump-assembly",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar",
+        "hitachi",
+        "hydraulic-components"
+      ]
+    },
+    {
+      "id": "INDUSTRIAL-SEALS-O-RINGS-HYDRAULIC-PNEUMATIC-SEALING-RINGS",
+      "name": "Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings",
+      "partNumber": "INDUSTRIAL-SEALS",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200",
+        "Caterpillar 330D",
+        "Various Industrial Equipment"
+      ],
+      "category": "hydraulic",
+      "subcategory": "seals",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 60,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "0.5 kg",
+      "dimensions": "Various sizes",
+      "images": [
+        {
+          "url": "images/products/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings)/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings).jpg",
+          "alt": "Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings overview showing assorted sealing rings and O-rings for industrial and excavator applications"
+        },
+        {
+          "url": "images/products/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings)/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings) (2).jpg",
+          "alt": "Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings close-up view displaying different O-ring sizes, colors, and materials"
+        },
+        {
+          "url": "images/products/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings)/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings) (3).jpg",
+          "alt": "Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings detailed layout of sealing rings suitable for hydraulic and pneumatic systems"
+        },
+        {
+          "url": "images/products/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings)/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings) (4).jpg",
+          "alt": "Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings assortment showing various cross-section profiles and sealing designs"
+        },
+        {
+          "url": "images/products/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings)/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings) (5).jpg",
+          "alt": "Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings organized set for hydraulic cylinder and valve sealing applications"
+        },
+        {
+          "url": "images/products/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings)/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings) (6).jpg",
+          "alt": "Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings detailed view of high-pressure sealing rings for excavator hydraulic systems"
+        },
+        {
+          "url": "images/products/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings)/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings) (7).jpg",
+          "alt": "Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings image showing pneumatic sealing rings for air and gas systems"
+        },
+        {
+          "url": "images/products/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings)/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings) (8).jpg",
+          "alt": "Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings technical layout with multiple ring sizes for different industrial equipment"
+        },
+        {
+          "url": "images/products/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings)/Industrial Seals,O-rings,hydraulic(pneumatic sealing rings) (9).jpg",
+          "alt": "Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings kit including O-rings, hydraulic seals, and pneumatic sealing rings for maintenance and repair"
+        }
+      ],
+      "description": "Comprehensive Industrial Seals/O-rings/Hydraulic/Pneumatic Sealing Rings kit designed for excavators and industrial hydraulic/pneumatic systems. Features a wide range of sealing rings and O-rings with excellent sealing performance, durability, and resistance to high pressure and temperature. Suitable for Komatsu, Caterpillar, Hitachi excavators and various industrial equipment. Ideal for maintenance, repair, and sealing system upgrades.",
+      "specifications": {
+        "Model": "INDUSTRIAL-SEALS",
+        "Specification": "Industrial Seals / O-rings / Hydraulic / Pneumatic Sealing Rings",
+        "Type": "Hydraulic and Pneumatic Sealing Rings",
+        "Maximum Pressure": "350 bar",
+        "Temperature Range": "-40°C to +120°C",
+        "Material": "NBR, FKM, PTFE, Polyurethane",
+        "Weight": "0.5 kg",
+        "Dimensions": "Various sizes",
+        "Compatibility": "Multiple excavator models and industrial equipment",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Caterpillar 330D",
+        "Hitachi ZX200",
+        "Hitachi ZX220",
+        "Hitachi ZX330",
+        "Industrial hydraulic and pneumatic systems"
+      ],
+      "features": [
+        "Excellent sealing performance",
+        "High pressure resistance",
+        "Temperature resistant",
+        "Wide range of sizes",
+        "Durable materials",
+        "Suitable for hydraulic and pneumatic systems",
+        "Easy installation",
+        "OEM quality replacement",
+        "Ideal for maintenance and repair",
+        "Compatible with multiple brands and equipment"
+      ],
+      "tags": [
+        "industrial-seals",
+        "o-rings",
+        "hydraulic-seal",
+        "pneumatic-seal",
+        "sealing-rings",
+        "excavator-seal",
+        "seal-kit",
+        "komatsu",
+        "caterpillar",
+        "hitachi",
+        "industrial-equipment"
+      ]
+    },
+    {
+      "id": "K5V80L-R-K3V112L-R-OIL-SEAL-COVERS-FOR-EXCAVATOR-HYDRAULIC-PUMPS",
+      "name": "K5V80L/R,K3V112L/R OIL SEAL COVERS FOR EXCAVATOR HYDRAULIC PUMPS",
+      "partNumber": "OIL-SEAL-COVERS",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC130",
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "seals",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 35,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "0.6 kg",
+      "dimensions": "Standard sizes for K5V80L/R and K3V112L/R pumps",
+      "images": [
+        {
+          "url": "images/products/K5V80L(R),K3V112L (R) OIL SEAL COVERS FOR EXCAVATOR HYDRAULIC PUMPS/K5V80L(R),K3V112L (R) OIL SEAL COVERS FOR EXCAVATOR HYDRAULIC PUMPS.jpg",
+          "alt": "K5V80L/R,K3V112L/R OIL SEAL COVERS FOR EXCAVATOR HYDRAULIC PUMPS showing oil seal covers and sealing components for excavator hydraulic pumps"
+        }
+      ],
+      "description": "High-quality K5V80L/R,K3V112L/R OIL SEAL COVERS FOR EXCAVATOR HYDRAULIC PUMPS designed for reliable sealing of hydraulic pump shafts. Provides excellent oil sealing performance, protects internal components, and extends pump service life. Suitable for Komatsu, Caterpillar, Hitachi and other excavator models using K5V80L/R and K3V112L/R series pumps.",
+      "specifications": {
+        "Model": "OIL-SEAL-COVERS",
+        "Specification": "K5V80L/R,K3V112L/R OIL SEAL COVERS FOR EXCAVATOR HYDRAULIC PUMPS",
+        "Type": "Hydraulic Pump Oil Seal Cover",
+        "Application": "Excavator Hydraulic Pumps",
+        "Maximum Pressure": "350 bar",
+        "Temperature Range": "-40°C to +100°C",
+        "Material": "High-grade steel and sealing rubber",
+        "Weight": "0.6 kg",
+        "Dimensions": "Standard sizes for K5V80L/R and K3V112L/R pumps",
+        "Compatibility": "Multiple excavator hydraulic pumps",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC130-8",
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Hitachi ZX200",
+        "Hitachi ZX220"
+      ],
+      "features": [
+        "Excellent oil sealing performance",
+        "Protects pump internal components",
+        "Reduces leakage and contamination",
+        "Durable materials for long service life",
+        "Suitable for K5V80L/R and K3V112L/R pumps",
+        "Easy installation and replacement",
+        "OEM quality replacement parts"
+      ],
+      "tags": [
+        "oil-seal-cover",
+        "hydraulic-pump-seal",
+        "k5v80l",
+        "k3v112l",
+        "excavator-seal",
+        "hydraulic-seal",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar",
+        "hitachi"
+      ]
+    },
+    {
+      "id": "K3V63-K5V140-K3V180-K5V200-SERVO-PISTONS",
+      "name": "K3V63/K5V140/K3V180/K5V200 SERVO PISTONS",
+      "partNumber": "SERVO-PISTONS",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC130",
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Komatsu PC300",
+        "Caterpillar 320D",
+        "Caterpillar 330D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 40,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "1.2 kg",
+      "dimensions": "Standard sizes for K3V63/K5V140/K3V180/K5V200 pumps",
+      "images": [
+        {
+          "url": "images/products/K3V63,K5V140,K3V180,K5V200 SERVO PISTONS/K3V63,K5V140,K3V180,K5V200 SERVO PISTONS.jpg",
+          "alt": "K3V63/K5V140/K3V180/K5V200 SERVO PISTONS set showing servo pistons and related components for excavator hydraulic pumps"
+        }
+      ],
+      "description": "High-quality K3V63/K5V140/K3V180/K5V200 SERVO PISTONS designed for excavator hydraulic pumps. Provides precise control of swash plate angle and pump displacement, ensuring stable hydraulic performance and quick response. Suitable for Komatsu, Caterpillar, Hitachi and other excavator models using K3V63, K5V140, K3V180 and K5V200 series pumps.",
+      "specifications": {
+        "Model": "SERVO-PISTONS",
+        "Specification": "K3V63/K5V140/K3V180/K5V200 SERVO PISTONS",
+        "Type": "Hydraulic Pump Servo Pistons",
+        "Application": "Excavator Hydraulic Pumps",
+        "Maximum Pressure": "350 bar",
+        "Material": "High-grade alloy steel",
+        "Weight": "1.2 kg",
+        "Dimensions": "Standard sizes for K3V63/K5V140/K3V180/K5V200 pumps",
+        "Compatibility": "Multiple excavator hydraulic pumps",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC130-8",
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC300-8",
+        "Komatsu PC300LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Caterpillar 330D",
+        "Hitachi ZX200",
+        "Hitachi ZX220"
+      ],
+      "features": [
+        "Precise control of pump displacement",
+        "Improves hydraulic system response",
+        "High-strength alloy steel construction",
+        "Wear resistant surface treatment",
+        "Suitable for K3V63, K5V140, K3V180, K5V200 pumps",
+        "Easy installation and replacement",
+        "OEM quality replacement parts"
+      ],
+      "tags": [
+        "servo-piston",
+        "hydraulic-pump-parts",
+        "k3v63",
+        "k5v140",
+        "k3v180",
+        "k5v200",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar",
+        "hitachi"
+      ]
+    },
+    {
+      "id": "K3V63-K3V112-K3V140-K5V140-ROCKER-ARM-SEATS-PUMP-HEAD-SEATS",
+      "name": "K3V63/K3V112/K3V140/K5V140 ROCKER ARM SEATS(PUMP HEAD SEATS)",
+      "partNumber": "ROCKER-ARM-SEATS",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC130",
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Komatsu PC300",
+        "Caterpillar 320D",
+        "Caterpillar 330D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 50,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "2.0 kg",
+      "dimensions": "Standard sizes for K3V63/K3V112/K3V140/K5V140 pumps",
+      "images": [
+        {
+          "url": "images/products/K3V63,K3V112,K3V140,K5V140 ROCKER ARM SEATS(PUMP HEAD SEATS)/K3V63,K3V112,K3V140,K5V140 ROCKER ARM SEATS(PUMP HEAD SEATS).jpg",
+          "alt": "K3V63/K3V112/K3V140/K5V140 ROCKER ARM SEATS(PUMP HEAD SEATS) showing rocker arm seats and pump head seats for excavator hydraulic pumps"
+        }
+      ],
+      "description": "High-quality K3V63/K3V112/K3V140/K5V140 ROCKER ARM SEATS(PUMP HEAD SEATS) designed for excavator hydraulic pumps. Provides stable support for rocker arms and pump head components, ensuring reliable operation and extended service life. Suitable for Komatsu, Caterpillar, Hitachi and other excavator models using K3V63, K3V112, K3V140 and K5V140 series pumps.",
+      "specifications": {
+        "Model": "ROCKER-ARM-SEATS",
+        "Specification": "K3V63/K3V112/K3V140/K5V140 ROCKER ARM SEATS(PUMP HEAD SEATS)",
+        "Type": "Hydraulic Pump Rocker Arm Seats / Pump Head Seats",
+        "Application": "Excavator Hydraulic Pumps",
+        "Maximum Pressure": "350 bar",
+        "Material": "High-grade alloy steel",
+        "Weight": "2.0 kg",
+        "Dimensions": "Standard sizes for K3V63/K3V112/K3V140/K5V140 pumps",
+        "Compatibility": "Multiple excavator hydraulic pumps",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC130-8",
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC300-8",
+        "Komatsu PC300LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Caterpillar 330D",
+        "Hitachi ZX200",
+        "Hitachi ZX220"
+      ],
+      "features": [
+        "Provides stable support for rocker arms",
+        "Improves pump head structural strength",
+        "High-strength alloy steel construction",
+        "Wear and fatigue resistant",
+        "Suitable for K3V63, K3V112, K3V140, K5V140 pumps",
+        "Easy installation and replacement",
+        "OEM quality replacement parts"
+      ],
+      "tags": [
+        "rocker-arm-seat",
+        "pump-head-seat",
+        "hydraulic-pump-parts",
+        "k3v63",
+        "k3v112",
+        "k3v140",
+        "k5v140",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar",
+        "hitachi"
+      ]
+    },
+    {
+      "id": "PC200-8-PC200-7-SOLENOID-VALVE",
+      "name": "PC200-8/PC200-7 SOLENOID VALVE",
+      "partNumber": "SOLENOID-VALVE",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200-7",
+        "Komatsu PC200-8",
+        "Komatsu PC200LC-7",
+        "Komatsu PC200LC-8"
+      ],
+      "category": "hydraulic",
+      "subcategory": "valves",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 15,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "1.5 kg",
+      "dimensions": "12×8×10 cm",
+      "images": [
+        {
+          "url": "images/products/PC200-8,PC200-7 SOLENOID VALVE/PC200-8,PC200-7 SOLENOID VALVE.jpg",
+          "alt": "PC200-8/PC200-7 SOLENOID VALVE front view showing solenoid valve body, electrical connector, and hydraulic port connections for Komatsu PC200-7 and PC200-8 excavators"
+        },
+        {
+          "url": "images/products/PC200-8,PC200-7 SOLENOID VALVE/PC200-8,PC200-7 SOLENOID VALVE(1).jpg",
+          "alt": "PC200-8/PC200-7 SOLENOID VALVE side view displaying valve housing, identification markings, mounting points, and technical specifications"
+        }
+      ],
+      "description": "High-quality SOLENOID VALVE designed specifically for Komatsu PC200-7 and PC200-8 excavators. Features reliable electrical control, fast response time, and excellent durability. Provides precise hydraulic flow control for various excavator functions. Suitable for PC200-7 and PC200-8 series excavators. OEM quality replacement part for hydraulic system control.",
+      "specifications": {
+        "Model": "SOLENOID-VALVE",
+        "Specification": "PC200-8/PC200-7 SOLENOID VALVE",
+        "Type": "Hydraulic Solenoid Valve",
+        "Voltage": "12V DC / 24V DC",
+        "Maximum Pressure": "350 bar",
+        "Flow Rate": "Up to 60 L/min",
+        "Response Time": "< 50ms",
+        "Weight": "1.5 kg",
+        "Dimensions": "12×8×10 cm",
+        "Material": "High-grade steel and brass",
+        "Compatibility": "Komatsu PC200-7, PC200-8",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-7",
+        "Komatsu PC200LC-7",
+        "Komatsu PC200-8",
+        "Komatsu PC200LC-8",
+        "Komatsu PC220-7",
+        "Komatsu PC220-8"
+      ],
+      "features": [
+        "Reliable electrical control",
+        "Fast response time",
+        "Precise flow control",
+        "Durable construction",
+        "High pressure capability",
+        "Easy installation",
+        "OEM quality replacement",
+        "Suitable for PC200-7 and PC200-8",
+        "Long service life",
+        "Low power consumption"
+      ],
+      "tags": [
+        "solenoid-valve",
+        "hydraulic-valve",
+        "pc200-7",
+        "pc200-8",
+        "komatsu",
+        "excavator-parts",
+        "hydraulic-components",
+        "control-valve",
+        "electro-hydraulic"
+      ]
+    },
+    {
+      "id": "K3V180DT-hydraulic-pump",
+      "name": "K3V180DT Hydraulic Pump",
+      "partNumber": "K3V180DT",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC300",
+        "Komatsu PC350",
+        "Caterpillar 330D",
+        "Hitachi ZX330"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 6,
+      "stockStatus": "in-stock",
+      "leadTime": "5-7 business days",
+      "weight": "68.5 kg",
+      "dimensions": "42×35×38 cm",
+      "images": [
+        {
+          "url": "images/products/K3V180DT/K3V180DT1.jpg",
+          "alt": "K3V180DT hydraulic pump front view showing mounting flange, control mechanism, and hydraulic ports"
+        },
+        {
+          "url": "images/products/K3V180DT/K3V180DT2.jpg",
+          "alt": "K3V180DT hydraulic pump side view displaying technical specifications and connection ports"
+        }
+      ],
+      "description": "High-performance K3V180DT hydraulic pump designed for large excavators and heavy construction machinery. Features large displacement, robust construction, and excellent efficiency. Suitable for medium to large excavator models including Komatsu PC300/350, Caterpillar 330D, and Hitachi ZX330.",
+      "specifications": {
+        "Model": "K3V180DT",
+        "Type": "Axial Piston Pump",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "180 cc/rev",
+        "Rotation": "Clockwise",
+        "Weight": "68.5 kg",
+        "Dimensions": "42×35×38 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC300-8",
+        "Komatsu PC350-8",
+        "Komatsu PC300LC-8",
+        "Caterpillar 330D",
+        "Caterpillar 330DL",
+        "Hitachi ZX330",
+        "Hitachi ZX350"
+      ],
+      "features": [
+        "High efficiency design",
+        "Durable construction",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Higher displacement for larger machines"
+      ],
+      "tags": [
+        "hydraulic-pump",
+        "k3v180dt",
+        "excavator-parts"
+      ]
+    },
+    {
+      "id": "K5V80DTP-hydraulic-pump",
+      "name": "K5V80DTP Hydraulic Pump",
+      "partNumber": "K5V80DTP",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC130",
+        "Komatsu PC138",
+        "Caterpillar 308E",
+        "Hitachi ZX130"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 10,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "32.8 kg",
+      "dimensions": "28×24×28 cm",
+      "images": [
+        {
+          "url": "images/products/K5V80DTP/K5V80DTP1.jpg",
+          "alt": "K5V80DTP hydraulic pump front view showing mounting flange, control mechanism, and hydraulic ports"
+        },
+        {
+          "url": "images/products/K5V80DTP/K5V80DTP 2.jpg",
+          "alt": "K5V80DTP hydraulic pump side view displaying technical specifications and connection ports"
+        }
+      ],
+      "description": "High-performance K5V80DTP hydraulic pump designed for compact and small excavators. Features advanced control mechanism, durable construction, and excellent efficiency. Suitable for compact excavator models including Komatsu PC130/138, Caterpillar 308E, and Hitachi ZX130.",
+      "specifications": {
+        "Model": "K5V80DTP",
+        "Type": "Axial Piston Pump",
+        "Maximum Pressure": "320 bar",
+        "Displacement": "80 cc/rev",
+        "Rotation": "Clockwise",
+        "Weight": "32.8 kg",
+        "Dimensions": "28×24×28 cm",
+        "Material": "High-grade cast iron",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC130-8",
+        "Komatsu PC138-8",
+        "Komatsu PC130LC-8",
+        "Caterpillar 308E",
+        "Caterpillar 308E2",
+        "Hitachi ZX130",
+        "Hitachi ZX135"
+      ],
+      "features": [
+        "High efficiency design",
+        "Durable construction",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Compact size for small excavators"
+      ],
+      "tags": [
+        "hydraulic-pump",
+        "k5v80dtp",
+        "excavator-parts",
+        "compact-excavator"
+      ]
+    },
+    {
+      "id": "K3V112D-hydraulic-pump",
+      "name": "K3V112D Hydraulic Pump",
+      "partNumber": "K3V112D",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 8,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "45.2 kg",
+      "dimensions": "35×28×32 cm",
+      "images": [
+        {
+          "url": "images/products/K3V112D/K3V112D11.jpg",
+          "alt": "K3V112D hydraulic pump front view showing mounting flange, control mechanism, and hydraulic ports"
+        },
+        {
+          "url": "images/products/K3V112D/K3V112D12.jpg",
+          "alt": "K3V112D hydraulic pump side view displaying technical specifications and connection ports"
+        }
+      ],
+      "description": "High-performance K3V112D hydraulic pump designed for excavators and heavy machinery. Features advanced control mechanism, durable construction, and excellent efficiency. Suitable for various excavator models including Komatsu, Caterpillar, and Hitachi.",
+      "specifications": {
+        "Model": "K3V112D",
+        "Type": "Axial Piston Pump",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "112 cc/rev",
+        "Rotation": "Clockwise",
+        "Weight": "45.2 kg",
+        "Dimensions": "35×28×32 cm",
+        "Material": "High-grade cast iron",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Hitachi ZX200",
+        "Hitachi ZX220"
+      ],
+      "features": [
+        "High efficiency design",
+        "Durable construction",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Industrial grade materials"
+      ],
+      "tags": [
+        "hydraulic-pump",
+        "k3v112d",
+        "excavator-parts"
+      ]
+    },
+    {
+      "id": "M5X180chb-10A-64B-330-3-swing-motor",
+      "name": "M5X180chb 10A-64B(330-3) Swing Motor",
+      "partNumber": "M5X180chb",
+      "oemNumber": "10A-64B",
+      "brand": "others",
+      "model": [
+        "Caterpillar 330",
+        "Caterpillar 330D",
+        "Caterpillar 330DL"
+      ],
+      "category": "hydraulic",
+      "subcategory": "swing-motors",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 5,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "55.0 kg",
+      "dimensions": "40×32×36 cm",
+      "images": [
+        {
+          "url": "images/products/M5X180chb 10A-64B(330-3)/M5X180chb 10A-64B(330-3).jpg",
+          "alt": "M5X180chb 10A-64B(330-3) swing motor front view showing motor housing, mounting flange, and hydraulic connections"
+        },
+        {
+          "url": "images/products/M5X180chb 10A-64B(330-3)/M5X180chb 10A-64B(330-3) (2).jpg",
+          "alt": "M5X180chb 10A-64B(330-3) swing motor side view displaying technical specifications and connection ports"
+        }
+      ],
+      "description": "High-quality M5X180chb 10A-64B(330-3) swing motor designed for Caterpillar 330 series excavators. Features robust construction, excellent torque output, and reliable operation. Suitable for Caterpillar 330, 330D, and 330DL excavators.",
+      "specifications": {
+        "Model": "M5X180chb",
+        "Specification": "10A-64B(330-3)",
+        "Type": "Hydraulic Swing Motor",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "180 cc/rev",
+        "Rotation": "Bi-directional",
+        "Weight": "55.0 kg",
+        "Dimensions": "40×32×36 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Caterpillar 330",
+        "Caterpillar 330D",
+        "Caterpillar 330DL",
+        "Caterpillar 330C",
+        "Caterpillar 330CL"
+      ],
+      "features": [
+        "High torque output",
+        "Durable construction",
+        "Smooth operation",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance",
+        "Easy installation"
+      ],
+      "tags": [
+        "swing-motor",
+        "m5x180chb",
+        "caterpillar-330",
+        "excavator-parts",
+        "motor"
+      ]
+    },
+    {
+      "id": "M5X130CHB-10A-45A-320C-swing-motor",
+      "name": "M5X130CHB 10A-45A(320C) Swing Motor",
+      "partNumber": "M5X130CHB",
+      "oemNumber": "10A-45A",
+      "brand": "others",
+      "model": [
+        "Caterpillar 320C",
+        "Caterpillar 320D",
+        "Caterpillar 320DL"
+      ],
+      "category": "hydraulic",
+      "subcategory": "swing-motors",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 6,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "48.5 kg",
+      "dimensions": "38×30×34 cm",
+      "images": [
+        {
+          "url": "images/products/M5X130CHB 10A-45A(320C)/M5X130CHB 10A-45A(320C).jpg",
+          "alt": "M5X130CHB 10A-45A(320C) swing motor front view showing motor housing, mounting flange, and hydraulic connections"
+        },
+        {
+          "url": "images/products/M5X130CHB 10A-45A(320C)/M5X130CHB 10A-45A(320C) (2).jpg",
+          "alt": "M5X130CHB 10A-45A(320C) swing motor side view displaying technical specifications and connection ports"
+        }
+      ],
+      "description": "High-quality M5X130CHB 10A-45A(320C) swing motor designed for Caterpillar 320 series excavators. Features robust construction, excellent torque output, and reliable operation. Suitable for Caterpillar 320C, 320D, and 320DL excavators.",
+      "specifications": {
+        "Model": "M5X130CHB",
+        "Specification": "10A-45A(320C)",
+        "Type": "Hydraulic Swing Motor",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "130 cc/rev",
+        "Rotation": "Bi-directional",
+        "Weight": "48.5 kg",
+        "Dimensions": "38×30×34 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Caterpillar 320C",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Caterpillar 320CL",
+        "Caterpillar 320CLC"
+      ],
+      "features": [
+        "High torque output",
+        "Durable construction",
+        "Smooth operation",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance",
+        "Easy installation"
+      ],
+      "tags": [
+        "swing-motor",
+        "m5x130chb",
+        "caterpillar-320",
+        "excavator-parts",
+        "motor"
+      ]
+    },
+    {
+      "id": "M2X210CHB-10A-80-290-swing-motor",
+      "name": "M2X210CHB-10A-80(290) Swing Motor",
+      "partNumber": "M2X210CHB",
+      "oemNumber": "10A-80",
+      "brand": "others",
+      "model": [
+        "Caterpillar 290",
+        "Caterpillar 290D",
+        "Caterpillar 290DL"
+      ],
+      "category": "hydraulic",
+      "subcategory": "swing-motors",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 4,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "42.0 kg",
+      "dimensions": "36×28×32 cm",
+      "images": [
+        {
+          "url": "images/products/M2X210CHB-10A-80(290)/M2X210CHB-10A-80(290).jpg",
+          "alt": "M2X210CHB-10A-80(290) swing motor front view showing motor housing, mounting flange, and hydraulic connections"
+        },
+        {
+          "url": "images/products/M2X210CHB-10A-80(290)/M2X210CHB-10A-80(291)2.jpg",
+          "alt": "M2X210CHB-10A-80(290) swing motor side view displaying technical specifications and connection ports"
+        }
+      ],
+      "description": "High-quality M2X210CHB-10A-80(290) swing motor designed for Caterpillar 290 series excavators. Features robust construction, excellent torque output, and reliable operation. Suitable for Caterpillar 290, 290D, and 290DL excavators.",
+      "specifications": {
+        "Model": "M2X210CHB",
+        "Specification": "10A-80(290)",
+        "Type": "Hydraulic Swing Motor",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "210 cc/rev",
+        "Rotation": "Bi-directional",
+        "Weight": "42.0 kg",
+        "Dimensions": "36×28×32 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Caterpillar 290",
+        "Caterpillar 290D",
+        "Caterpillar 290DL",
+        "Caterpillar 290C",
+        "Caterpillar 290CL"
+      ],
+      "features": [
+        "High torque output",
+        "Durable construction",
+        "Smooth operation",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance",
+        "Easy installation"
+      ],
+      "tags": [
+        "swing-motor",
+        "m2x210chb",
+        "caterpillar-290",
+        "excavator-parts",
+        "motor"
+      ]
+    },
+    {
+      "id": "M2X146B-CHB-10A-49-270-swing-motor",
+      "name": "M2X146B-CHB-10A-49(270) Swing Motor",
+      "partNumber": "M2X146B-CHB",
+      "oemNumber": "10A-49",
+      "brand": "others",
+      "model": [
+        "Caterpillar 270",
+        "Caterpillar 270D",
+        "Caterpillar 270DL"
+      ],
+      "category": "hydraulic",
+      "subcategory": "swing-motors",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 5,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "38.5 kg",
+      "dimensions": "34×26×30 cm",
+      "images": [
+        {
+          "url": "images/products/M2X146B-CHB-10A-49(270)/M2X146B-CHB-10A-49(270).jpg",
+          "alt": "M2X146B-CHB-10A-49(270) swing motor front view showing motor housing, mounting flange, and hydraulic connections"
+        },
+        {
+          "url": "images/products/M2X146B-CHB-10A-49(270)/M2X146B-CHB-10A-49(270)2.jpg",
+          "alt": "M2X146B-CHB-10A-49(270) swing motor side view displaying technical specifications and connection ports"
+        }
+      ],
+      "description": "High-quality M2X146B-CHB-10A-49(270) swing motor designed for Caterpillar 270 series excavators. Features robust construction, excellent torque output, and reliable operation. Suitable for Caterpillar 270, 270D, and 270DL excavators.",
+      "specifications": {
+        "Model": "M2X146B-CHB",
+        "Specification": "10A-49(270)",
+        "Type": "Hydraulic Swing Motor",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "146 cc/rev",
+        "Rotation": "Bi-directional",
+        "Weight": "38.5 kg",
+        "Dimensions": "34×26×30 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Caterpillar 270",
+        "Caterpillar 270D",
+        "Caterpillar 270DL",
+        "Caterpillar 270C",
+        "Caterpillar 270CL"
+      ],
+      "features": [
+        "High torque output",
+        "Durable construction",
+        "Smooth operation",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance",
+        "Easy installation"
+      ],
+      "tags": [
+        "swing-motor",
+        "m2x146b",
+        "caterpillar-270",
+        "excavator-parts",
+        "motor"
+      ]
+    },
+    {
+      "id": "K5V200DTH-hydraulic-main-pump",
+      "name": "K5V200DTH Hydraulic Main Pump",
+      "partNumber": "K5V200DTH",
+      "oemNumber": "K5V200DTH",
+      "brand": "others",
+      "model": [
+        "Komatsu PC300",
+        "Komatsu PC350",
+        "Caterpillar 330D",
+        "Hitachi ZX330"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 6,
+      "stockStatus": "in-stock",
+      "leadTime": "5-7 business days",
+      "weight": "68.5 kg",
+      "dimensions": "42×35×38 cm",
+      "images": [
+        {
+          "url": "images/products/K5V200DTH/K5V200DTH.jpg",
+          "alt": "K5V200DTH hydraulic main pump front view showing large displacement pump body, mounting flange, and hydraulic port connections"
+        },
+        {
+          "url": "images/products/K5V200DTH/K5V200DTH (2).jpg",
+          "alt": "K5V200DTH hydraulic main pump side view displaying control mechanism, identification plate, and technical specifications"
+        }
+      ],
+      "description": "High-capacity K5V200DTH hydraulic main pump designed for large excavators and heavy construction machinery. Features large displacement, robust construction, and excellent performance under high pressure conditions. Suitable for medium to large excavator models.",
+      "specifications": {
+        "Model": "K5V200DTH",
+        "Specification": "K5V200DTH",
+        "Type": "Axial Piston Main Pump",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "200 cc/rev",
+        "Rotation": "Clockwise",
+        "Weight": "68.5 kg",
+        "Dimensions": "42×35×38 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC300-8",
+        "Komatsu PC350-8",
+        "Komatsu PC300LC-8",
+        "Caterpillar 330D",
+        "Caterpillar 330DL",
+        "Hitachi ZX330",
+        "Hitachi ZX350"
+      ],
+      "features": [
+        "Large displacement capacity",
+        "High pressure operation",
+        "Durable construction",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance"
+      ],
+      "tags": [
+        "hydraulic-pump",
+        "main-pump",
+        "k5v200dth",
+        "large-excavator",
+        "excavator-parts"
+      ]
+    },
+    {
+      "id": "K3V63DT-hydraulic-pump",
+      "name": "K3V63DT Hydraulic Pump",
+      "partNumber": "K3V63DT",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC130",
+        "Komatsu PC138",
+        "Caterpillar 308E",
+        "Hitachi ZX130"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 12,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "28.5 kg",
+      "dimensions": "26×22×26 cm",
+      "images": [
+        {
+          "url": "images/products/K3V63DT/K3V63DT.jpg",
+          "alt": "K3V63DT hydraulic pump front view showing mounting flange, control mechanism, and hydraulic ports"
+        },
+        {
+          "url": "images/products/K3V63DT/K3V63DT (2).jpg",
+          "alt": "K3V63DT hydraulic pump side view displaying technical specifications and connection ports"
+        }
+      ],
+      "description": "High-performance K3V63DT hydraulic pump designed for compact and small excavators. Features advanced control mechanism, durable construction, and excellent efficiency. Suitable for compact excavator models including Komatsu PC130/138, Caterpillar 308E, and Hitachi ZX130.",
+      "specifications": {
+        "Model": "K3V63DT",
+        "Type": "Axial Piston Pump",
+        "Maximum Pressure": "320 bar",
+        "Displacement": "63 cc/rev",
+        "Rotation": "Clockwise",
+        "Weight": "28.5 kg",
+        "Dimensions": "26×22×26 cm",
+        "Material": "High-grade cast iron",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC130-8",
+        "Komatsu PC138-8",
+        "Komatsu PC130LC-8",
+        "Caterpillar 308E",
+        "Caterpillar 308E2",
+        "Hitachi ZX130",
+        "Hitachi ZX135"
+      ],
+      "features": [
+        "High efficiency design",
+        "Durable construction",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Compact size for small excavators"
+      ],
+      "tags": [
+        "hydraulic-pump",
+        "k3v63dt",
+        "excavator-parts",
+        "compact-excavator"
+      ]
+    },
+    {
+      "id": "K5V140DTP-hydraulic-main-pump",
+      "name": "K5V140DTP Hydraulic Main Pump",
+      "partNumber": "K5V140DTP",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 7,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "52.8 kg",
+      "dimensions": "38×32×35 cm",
+      "images": [
+        {
+          "url": "images/products/K5V140DTP/K5V140DTP.jpg",
+          "alt": "K5V140DTP hydraulic main pump front view showing pump body, mounting flange, and hydraulic port connections"
+        },
+        {
+          "url": "images/products/K5V140DTP/K5V140DTP (2).jpg",
+          "alt": "K5V140DTP hydraulic main pump side view displaying control mechanism, identification plate, and technical specifications"
+        }
+      ],
+      "description": "High-capacity K5V140DTP hydraulic main pump designed for medium excavators. Features medium displacement, robust construction, and excellent performance under high pressure conditions. Suitable for Komatsu PC200/220, Caterpillar 320D, and Hitachi ZX200 excavators.",
+      "specifications": {
+        "Model": "K5V140DTP",
+        "Specification": "K5V140DTP",
+        "Type": "Axial Piston Main Pump",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "140 cc/rev",
+        "Rotation": "Clockwise",
+        "Weight": "52.8 kg",
+        "Dimensions": "38×32×35 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Hitachi ZX200",
+        "Hitachi ZX220"
+      ],
+      "features": [
+        "Medium displacement capacity",
+        "High pressure operation",
+        "Durable construction",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance"
+      ],
+      "tags": [
+        "hydraulic-pump",
+        "main-pump",
+        "k5v140dtp",
+        "medium-excavator",
+        "excavator-parts"
+      ]
+    },
+    {
+      "id": "K3V180-K3V112-K3V63-K3V140-K3V180-BEARINGS",
+      "name": "K3V180/K3V112/K3V63/K3V140/K3V180 BEARINGS",
+      "partNumber": "K3V-BEARINGS",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC130",
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Komatsu PC300",
+        "Caterpillar 320D",
+        "Caterpillar 330D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 60,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "3.0 kg",
+      "dimensions": "Standard sizes for K3V63/K3V112/K3V140/K3V180 pumps",
+      "images": [
+        {
+          "url": "images/products/K3V180,K3V112,K3V63,K3V140,K3V180 BEARINGS/K3V180,K3V112,K3V63,K3V140,K3V180 BEARINGS.jpg",
+          "alt": "K3V180/K3V112/K3V63/K3V140/K3V180 BEARINGS set overview showing multiple bearings for K3V series hydraulic pumps"
+        },
+        {
+          "url": "images/products/K3V180,K3V112,K3V63,K3V140,K3V180 BEARINGS/K3V180,K3V112,K3V63,K3V140,K3V180 BEARINGS (2).jpg",
+          "alt": "K3V180/K3V112/K3V63/K3V140/K3V180 BEARINGS detailed view displaying inner and outer raceways, rolling elements, and surface finish"
+        },
+        {
+          "url": "images/products/K3V180,K3V112,K3V63,K3V140,K3V180 BEARINGS/K3V180,K3V112,K3V63,K3V140,K3V180 BEARINGS (3).jpg",
+          "alt": "K3V180/K3V112/K3V63/K3V140/K3V180 BEARINGS layout showing different bearing sizes for K3V63, K3V112, K3V140, and K3V180 hydraulic pumps"
+        }
+      ],
+      "description": "High-quality K3V180/K3V112/K3V63/K3V140/K3V180 BEARINGS set designed for K3V series excavator hydraulic pumps. Provides low-friction rotation, high load capacity, and long service life for pump rotating components. Suitable for Komatsu, Caterpillar, Hitachi and other excavator models using K3V63, K3V112, K3V140 and K3V180 series pumps.",
+      "specifications": {
+        "Model": "K3V-BEARINGS",
+        "Specification": "K3V180/K3V112/K3V63/K3V140/K3V180 BEARINGS",
+        "Type": "Hydraulic Pump Bearings Set",
+        "Application": "Excavator Hydraulic Pumps",
+        "Maximum Load": "High radial and axial load capacity",
+        "Material": "High-grade bearing steel",
+        "Weight": "3.0 kg",
+        "Dimensions": "Standard sizes for K3V63/K3V112/K3V140/K3V180 pumps",
+        "Compatibility": "Multiple excavator hydraulic pumps",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC130-8",
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC300-8",
+        "Komatsu PC300LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Caterpillar 330D",
+        "Hitachi ZX200",
+        "Hitachi ZX220"
+      ],
+      "features": [
+        "Low-friction rotation",
+        "High load capacity",
+        "High-quality bearing steel construction",
+        "Wear and fatigue resistant",
+        "Suitable for K3V63, K3V112, K3V140, K3V180 pumps",
+        "Improves pump reliability and service life",
+        "OEM quality replacement parts"
+      ],
+      "tags": [
+        "bearing",
+        "pump-bearing",
+        "hydraulic-pump-parts",
+        "k3v63",
+        "k3v112",
+        "k3v140",
+        "k3v180",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar",
+        "hitachi"
+      ]
+    },
+    {
+      "id": "K3V112-HYDRAULIC-PUMP-PARTS",
+      "name": "K3V112 HYDRAULIC PUMP PARTS",
+      "partNumber": "K3V112",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 7,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "46.5 kg",
+      "dimensions": "36×29×33 cm",
+      "images": [
+        {
+          "url": "images/products/K3V112 HYDRAULIC PUMP PARTS/K3V112 HYDRAULIC PUMP PARTS.jpg",
+          "alt": "K3V112 HYDRAULIC PUMP PARTS front view showing hydraulic pump components, mounting flange, and connection ports"
+        },
+        {
+          "url": "images/products/K3V112 HYDRAULIC PUMP PARTS/K3V112 HYDRAULIC PUMP PARTS (2).jpg",
+          "alt": "K3V112 HYDRAULIC PUMP PARTS side view displaying pump housing, control mechanism, and technical specifications"
+        },
+        {
+          "url": "images/products/K3V112 HYDRAULIC PUMP PARTS/K3V112 HYDRAULIC PUMP PARTS (3).jpg",
+          "alt": "K3V112 HYDRAULIC PUMP PARTS detailed view showing internal components, pistons, and assembly structure"
+        },
+        {
+          "url": "images/products/K3V112 HYDRAULIC PUMP PARTS/K3V112 HYDRAULIC PUMP PARTS (4).jpg",
+          "alt": "K3V112 HYDRAULIC PUMP PARTS rear view displaying hydraulic connections, seals, and mounting points"
+        }
+      ],
+      "description": "High-quality K3V112 HYDRAULIC PUMP PARTS designed for excavators and heavy machinery. Features robust construction, excellent efficiency, and reliable operation. Suitable for various excavator models including Komatsu, Caterpillar, and Hitachi. Complete parts set for hydraulic pump assembly and maintenance.",
+      "specifications": {
+        "Model": "K3V112",
+        "Specification": "HYDRAULIC PUMP PARTS",
+        "Type": "Axial Piston Pump Parts",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "112 cc/rev",
+        "Rotation": "Clockwise",
+        "Weight": "46.5 kg",
+        "Dimensions": "36×29×33 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Hitachi ZX200",
+        "Hitachi ZX220"
+      ],
+      "features": [
+        "High efficiency design",
+        "Durable construction",
+        "Complete parts set",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance",
+        "Easy installation"
+      ],
+      "tags": [
+        "hydraulic-pump",
+        "k3v112",
+        "pump-parts",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar"
+      ]
+    },
+    {
+      "id": "K5V200-HYDRAULIC-PUMP-PARTS",
+      "name": "K5V200 HYDRAULIC PUMP PARTS",
+      "partNumber": "K5V200",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC300",
+        "Komatsu PC350",
+        "Caterpillar 330D",
+        "Hitachi ZX330"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 6,
+      "stockStatus": "in-stock",
+      "leadTime": "5-7 business days",
+      "weight": "69.0 kg",
+      "dimensions": "42×35×38 cm",
+      "images": [
+        {
+          "url": "images/products/K5V200 HYDRAULIC PUMP PARTS/K5V200 HYDRAULIC PUMP PARTS.jpg",
+          "alt": "K5V200 HYDRAULIC PUMP PARTS front view showing large displacement hydraulic pump components, mounting flange, and connection ports"
+        },
+        {
+          "url": "images/products/K5V200 HYDRAULIC PUMP PARTS/K5V200 HYDRAULIC PUMP PARTS (1).jpg",
+          "alt": "K5V200 HYDRAULIC PUMP PARTS side view displaying pump housing, control mechanism, and technical specifications"
+        },
+        {
+          "url": "images/products/K5V200 HYDRAULIC PUMP PARTS/K5V200 HYDRAULIC PUMP PARTS (2).jpg",
+          "alt": "K5V200 HYDRAULIC PUMP PARTS detailed view showing internal components, pistons, and assembly structure"
+        },
+        {
+          "url": "images/products/K5V200 HYDRAULIC PUMP PARTS/K5V200 HYDRAULIC PUMP PARTS (3).jpg",
+          "alt": "K5V200 HYDRAULIC PUMP PARTS rear view displaying hydraulic connections, seals, and mounting points"
+        },
+        {
+          "url": "images/products/K5V200 HYDRAULIC PUMP PARTS/K5V200 HYDRAULIC PUMP PARTS (4).jpg",
+          "alt": "K5V200 HYDRAULIC PUMP PARTS additional view showing complete parts set, components layout, and assembly details"
+        }
+      ],
+      "description": "High-quality K5V200 HYDRAULIC PUMP PARTS designed for large excavators and heavy construction machinery. Features large displacement, robust construction, excellent efficiency, and reliable operation. Suitable for medium to large excavator models including Komatsu, Caterpillar, and Hitachi. Complete parts set for hydraulic pump assembly and maintenance.",
+      "specifications": {
+        "Model": "K5V200",
+        "Specification": "HYDRAULIC PUMP PARTS",
+        "Type": "Axial Piston Pump Parts",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "200 cc/rev",
+        "Rotation": "Clockwise",
+        "Weight": "69.0 kg",
+        "Dimensions": "42×35×38 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC300-8",
+        "Komatsu PC350-8",
+        "Komatsu PC300LC-8",
+        "Caterpillar 330D",
+        "Caterpillar 330DL",
+        "Hitachi ZX330",
+        "Hitachi ZX350"
+      ],
+      "features": [
+        "High efficiency design",
+        "Durable construction",
+        "Complete parts set",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance",
+        "Easy installation"
+      ],
+      "tags": [
+        "hydraulic-pump",
+        "k5v200",
+        "pump-parts",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar",
+        "hitachi"
+      ]
+    },
+    {
+      "id": "K3V63-HYDRAULIC-PUMP-PARTS",
+      "name": "K3V63 HYDRAULIC PUMP PARTS",
+      "partNumber": "K3V63",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC130",
+        "Komatsu PC138",
+        "Caterpillar 308E",
+        "Hitachi ZX130"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 8,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "28.5 kg",
+      "dimensions": "26×22×26 cm",
+      "images": [
+        {
+          "url": "images/products/K3V63 HYDRAULIC PUMP PARTS/K3V63 HYDRAULIC PUMP PARTS.jpg",
+          "alt": "K3V63 HYDRAULIC PUMP PARTS front view showing hydraulic pump components, mounting flange, and connection ports"
+        },
+        {
+          "url": "images/products/K3V63 HYDRAULIC PUMP PARTS/K3V63 HYDRAULIC PUMP PARTS (2).jpg",
+          "alt": "K3V63 HYDRAULIC PUMP PARTS side view displaying pump housing, control mechanism, and technical specifications"
+        },
+        {
+          "url": "images/products/K3V63 HYDRAULIC PUMP PARTS/K3V63 HYDRAULIC PUMP PARTS (3).jpg",
+          "alt": "K3V63 HYDRAULIC PUMP PARTS detailed view showing internal components, pistons, and assembly structure"
+        },
+        {
+          "url": "images/products/K3V63 HYDRAULIC PUMP PARTS/K3V63 HYDRAULIC PUMP PARTS (4).jpg",
+          "alt": "K3V63 HYDRAULIC PUMP PARTS rear view displaying hydraulic connections, seals, and mounting points"
+        }
+      ],
+      "description": "High-quality K3V63 HYDRAULIC PUMP PARTS designed for compact excavators and small construction machinery. Features robust construction, excellent efficiency, and reliable operation. Suitable for compact excavator models including Komatsu PC130/138, Caterpillar 308E, and Hitachi ZX130. Complete parts set for hydraulic pump assembly and maintenance.",
+      "specifications": {
+        "Model": "K3V63",
+        "Specification": "HYDRAULIC PUMP PARTS",
+        "Type": "Axial Piston Pump Parts",
+        "Maximum Pressure": "320 bar",
+        "Displacement": "63 cc/rev",
+        "Rotation": "Clockwise",
+        "Weight": "28.5 kg",
+        "Dimensions": "26×22×26 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC130-8",
+        "Komatsu PC138-8",
+        "Komatsu PC130LC-8",
+        "Caterpillar 308E",
+        "Caterpillar 308E2",
+        "Hitachi ZX130",
+        "Hitachi ZX135"
+      ],
+      "features": [
+        "High efficiency design",
+        "Durable construction",
+        "Complete parts set",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance",
+        "Easy installation"
+      ],
+      "tags": [
+        "hydraulic-pump",
+        "k3v63",
+        "pump-parts",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar",
+        "hitachi",
+        "compact-excavator"
+      ]
+    },
+    {
+      "id": "M5X180-SWING-MOTOR-PARTS",
+      "name": "M5X180 SWING MOTOR PARTS",
+      "partNumber": "M5X180",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Caterpillar 330",
+        "Caterpillar 330D",
+        "Caterpillar 330DL"
+      ],
+      "category": "hydraulic",
+      "subcategory": "swing-motors",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 5,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "55.0 kg",
+      "dimensions": "40×32×36 cm",
+      "images": [
+        {
+          "url": "images/products/M5X180 SWING MOTOR PARTS/M5X180 SWING MOTOR PARTS.jpg",
+          "alt": "M5X180 SWING MOTOR PARTS front view showing swing motor components, mounting flange, and hydraulic connections"
+        },
+        {
+          "url": "images/products/M5X180 SWING MOTOR PARTS/M5X180 SWING MOTOR PARTS (2).jpg",
+          "alt": "M5X180 SWING MOTOR PARTS side view displaying motor housing, technical specifications, and connection ports"
+        },
+        {
+          "url": "images/products/M5X180 SWING MOTOR PARTS/M5X180 SWING MOTOR PARTS (3).jpg",
+          "alt": "M5X180 SWING MOTOR PARTS detailed view showing internal components, seals, and assembly structure"
+        }
+      ],
+      "description": "High-quality M5X180 SWING MOTOR PARTS designed for excavators. Features robust construction, excellent torque output, and reliable operation. Suitable for Caterpillar 330 series excavators and compatible models. Complete parts set for swing motor assembly and maintenance.",
+      "specifications": {
+        "Model": "M5X180",
+        "Specification": "SWING MOTOR PARTS",
+        "Type": "Hydraulic Swing Motor Parts",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "180 cc/rev",
+        "Rotation": "Bi-directional",
+        "Weight": "55.0 kg",
+        "Dimensions": "40×32×36 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Caterpillar 330",
+        "Caterpillar 330D",
+        "Caterpillar 330DL",
+        "Caterpillar 330C",
+        "Caterpillar 330CL"
+      ],
+      "features": [
+        "High torque output",
+        "Durable construction",
+        "Smooth operation",
+        "Complete parts set",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance",
+        "Easy installation"
+      ],
+      "tags": [
+        "swing-motor",
+        "m5x180",
+        "caterpillar-330",
+        "excavator-parts",
+        "motor-parts"
+      ]
+    },
+    {
+      "id": "M5X130-SWING-MOTOR-PARTS",
+      "name": "M5X130 SWING MOTOR PARTS",
+      "partNumber": "M5X130",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Caterpillar 320C",
+        "Caterpillar 320D",
+        "Caterpillar 320DL"
+      ],
+      "category": "hydraulic",
+      "subcategory": "swing-motors",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 6,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "48.5 kg",
+      "dimensions": "38×30×34 cm",
+      "images": [
+        {
+          "url": "images/products/M5X130 SWING MOTOR PARTS/M5X130 SWING MOTOR PARTS.jpg",
+          "alt": "M5X130 SWING MOTOR PARTS front view showing swing motor components, mounting flange, and hydraulic connections"
+        },
+        {
+          "url": "images/products/M5X130 SWING MOTOR PARTS/M5X130 SWING MOTOR PARTS (2).jpg",
+          "alt": "M5X130 SWING MOTOR PARTS side view displaying motor housing, technical specifications, and connection ports"
+        },
+        {
+          "url": "images/products/M5X130 SWING MOTOR PARTS/M5X130 SWING MOTOR PARTS (3).jpg",
+          "alt": "M5X130 SWING MOTOR PARTS detailed view showing internal components, seals, and assembly structure"
+        },
+        {
+          "url": "images/products/M5X130 SWING MOTOR PARTS/M5X130 SWING MOTOR PARTS (4).jpg",
+          "alt": "M5X130 SWING MOTOR PARTS additional view showing complete parts set and components layout"
+        },
+        {
+          "url": "images/products/M5X130 SWING MOTOR PARTS/M5X130 SWING MOTOR PARTS (5).jpg",
+          "alt": "M5X130 SWING MOTOR PARTS technical view displaying motor internals and assembly details"
+        },
+        {
+          "url": "images/products/M5X130 SWING MOTOR PARTS/M5X130 SWING MOTOR PARTS (6).jpg",
+          "alt": "M5X130 SWING MOTOR PARTS comprehensive view showing all components for swing motor maintenance"
+        }
+      ],
+      "description": "High-quality M5X130 SWING MOTOR PARTS designed for excavators. Features robust construction, excellent torque output, and reliable operation. Suitable for Caterpillar 320 series excavators and compatible models. Complete parts set for swing motor assembly and maintenance.",
+      "specifications": {
+        "Model": "M5X130",
+        "Specification": "SWING MOTOR PARTS",
+        "Type": "Hydraulic Swing Motor Parts",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "130 cc/rev",
+        "Rotation": "Bi-directional",
+        "Weight": "48.5 kg",
+        "Dimensions": "38×30×34 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Caterpillar 320C",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Caterpillar 320CL",
+        "Caterpillar 320CLC"
+      ],
+      "features": [
+        "High torque output",
+        "Durable construction",
+        "Smooth operation",
+        "Complete parts set",
+        "OEM quality replacement",
+        "Industrial grade materials",
+        "Reliable performance",
+        "Easy installation"
+      ],
+      "tags": [
+        "swing-motor",
+        "m5x130",
+        "caterpillar-320",
+        "excavator-parts",
+        "motor-parts"
+      ]
+    },
+    {
+      "id": "Kawasaki-KDRDE5K-series-electro-hydraulic-proportional-pressure-reducing-valves",
+      "name": "Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves",
+      "partNumber": "KDRDE5K",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "valves",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 8,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "2.5 kg",
+      "dimensions": "12×8×10 cm",
+      "images": [
+        {
+          "url": "images/products/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves.jpg",
+          "alt": "Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valve front view showing valve body, electrical connector, and hydraulic port connections"
+        },
+        {
+          "url": "images/products/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves (1).jpg",
+          "alt": "Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valve side view displaying valve housing, identification markings, and mounting points"
+        },
+        {
+          "url": "images/products/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves (2).jpg",
+          "alt": "Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valve detailed view showing internal components, proportional control mechanism, and technical specifications"
+        },
+        {
+          "url": "images/products/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves (3).jpg",
+          "alt": "Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valve rear view displaying hydraulic connections, seals, and mounting points"
+        },
+        {
+          "url": "images/products/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves (4).jpg",
+          "alt": "Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valve additional view showing complete valve assembly, components layout, and installation details"
+        },
+        {
+          "url": "images/products/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves (5).jpg",
+          "alt": "Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valve technical view showing valve internals, proportional control mechanism, and performance characteristics"
+        },
+        {
+          "url": "images/products/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves/Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valves (6).jpg",
+          "alt": "Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valve comprehensive view displaying all components and application guide"
+        }
+      ],
+      "description": "High-precision Kawasaki KDRDE5K series electro-hydraulic proportional pressure reducing valve designed for excavator hydraulic systems. Features proportional control, excellent response time, and reliable operation under various pressure conditions. Suitable for medium excavator models including Komatsu, Caterpillar, and Hitachi. Provides precise pressure regulation for hydraulic circuits.",
+      "specifications": {
+        "Model": "KDRDE5K",
+        "Specification": "Electro-hydraulic Proportional Pressure Reducing Valve",
+        "Type": "Proportional Pressure Reducing Valve",
+        "Maximum Pressure": "350 bar",
+        "Operating Pressure": "0-350 bar",
+        "Flow Rate": "Up to 60 L/min",
+        "Voltage": "12V DC / 24V DC",
+        "Weight": "2.5 kg",
+        "Dimensions": "12×8×10 cm",
+        "Material": "High-grade steel and aluminum",
+        "Response Time": "< 50ms",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Hitachi ZX200",
+        "Hitachi ZX220"
+      ],
+      "features": [
+        "Proportional pressure control",
+        "Fast response time",
+        "Precise pressure regulation",
+        "Durable construction",
+        "High pressure capability",
+        "Easy installation",
+        "OEM quality replacement",
+        "Suitable for multiple excavator models",
+        "Low power consumption",
+        "Long service life"
+      ],
+      "tags": [
+        "proportional-valve",
+        "pressure-reducing-valve",
+        "electro-hydraulic",
+        "kawasaki",
+        "kdrde5k",
+        "hydraulic-valve",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar",
+        "hitachi"
+      ]
+    },
+    {
+      "id": "ROD-SEALS-PISTON-SEALS-WIPERS-Guide-RINGS",
+      "name": "ROD SEALS/PISTON SEALS/WIPERS&Guide RINGS",
+      "partNumber": "SEALS-WIPERS-RINGS",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200",
+        "Various Excavators"
+      ],
+      "category": "hydraulic",
+      "subcategory": "seals",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 50,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "0.8 kg",
+      "dimensions": "Various sizes",
+      "images": [
+        {
+          "url": "images/products/SEALS,WIPERS&RINGS/SEALS,WIPERS&RINGS.jpg",
+          "alt": "ROD SEALS/PISTON SEALS/WIPERS&Guide RINGS overview showing assorted rod seals, piston seals, wipers, and guide rings for hydraulic cylinders"
+        },
+        {
+          "url": "images/products/SEALS,WIPERS&RINGS/SEALS,WIPERS&RINGS (2).jpg",
+          "alt": "ROD SEALS/PISTON SEALS/WIPERS&Guide RINGS close-up view displaying different seal types, sizes, and materials"
+        },
+        {
+          "url": "images/products/SEALS,WIPERS&RINGS/SEALS,WIPERS&RINGS (3).jpg",
+          "alt": "ROD SEALS/PISTON SEALS/WIPERS&Guide RINGS detailed layout of seals suitable for hydraulic cylinder applications"
+        },
+        {
+          "url": "images/products/SEALS,WIPERS&RINGS/SEALS,WIPERS&RINGS (4).jpg",
+          "alt": "ROD SEALS/PISTON SEALS/WIPERS&Guide RINGS assortment showing various seal profiles and designs"
+        },
+        {
+          "url": "images/products/SEALS,WIPERS&RINGS/SEALS,WIPERS&RINGS (5).jpg",
+          "alt": "ROD SEALS/PISTON SEALS/WIPERS&Guide RINGS organized set for hydraulic cylinder sealing applications"
+        }
+      ],
+      "description": "Comprehensive ROD SEALS/PISTON SEALS/WIPERS&Guide RINGS kit designed for excavator hydraulic cylinders. Features excellent sealing performance, durability, and resistance to high pressure and temperature. Suitable for Komatsu, Caterpillar, Hitachi excavators and various hydraulic cylinder applications. Ideal for maintenance, repair, and sealing system upgrades.",
+      "specifications": {
+        "Model": "SEALS-WIPERS-RINGS",
+        "Specification": "ROD SEALS / PISTON SEALS / WIPERS & Guide RINGS",
+        "Type": "Hydraulic Cylinder Seals",
+        "Maximum Pressure": "350 bar",
+        "Temperature Range": "-40°C to +120°C",
+        "Material": "NBR, FKM, PTFE, Polyurethane",
+        "Weight": "0.8 kg",
+        "Dimensions": "Various sizes",
+        "Compatibility": "Multiple excavator models",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Caterpillar 330D",
+        "Hitachi ZX200",
+        "Hitachi ZX220",
+        "Hitachi ZX330",
+        "Various Excavators"
+      ],
+      "features": [
+        "Excellent sealing performance",
+        "High pressure resistance",
+        "Temperature resistant",
+        "Wide range of sizes",
+        "Durable materials",
+        "Suitable for rod and piston applications",
+        "Easy installation",
+        "OEM quality replacement",
+        "Ideal for maintenance and repair",
+        "Compatible with multiple brands and equipment"
+      ],
+      "tags": [
+        "rod-seal",
+        "piston-seal",
+        "wiper",
+        "guide-ring",
+        "hydraulic-seal",
+        "cylinder-seal",
+        "excavator-seal",
+        "seal-kit",
+        "komatsu",
+        "caterpillar",
+        "hitachi"
+      ]
+    },
+    {
+      "id": "K3V280-PISTON-PUMP-CYLINDER-BLOCK-FLAT-FACE-NINE-HOLE-PLUNGER-SPHERICAL-JOINT",
+      "name": "K3V280 PISTON PUMP/CYLINDER BLOCK/FLAT FACE/NINE-HOLE/PLUNGER/SPHERICAL JOINT",
+      "partNumber": "K3V280-ASSEMBLY",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Komatsu PC300",
+        "Caterpillar 320D",
+        "Hitachi ZX200"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 4,
+      "stockStatus": "in-stock",
+      "leadTime": "5-7 business days",
+      "weight": "15.5 kg",
+      "dimensions": "28×25×22 cm",
+      "images": [
+        {
+          "url": "images/products/K3V280 PISTON PUMP,CYLINDER BLOCK,FLAT FACE,NINE HOLE,PLUNGER&SPHERICAL JOINT/K3V280 PISTON PUMP,CYLINDER BLOCK,FLAT FACE,NINE HOLE,PLUNGER&SPHERICAL JOINT.jpg",
+          "alt": "K3V280 PISTON PUMP/CYLINDER BLOCK/FLAT FACE/NINE-HOLE/PLUNGER/SPHERICAL JOINT front view showing piston pump assembly, cylinder block, flat face design, nine-hole configuration, plunger, and spherical joint components"
+        },
+        {
+          "url": "images/products/K3V280 PISTON PUMP,CYLINDER BLOCK,FLAT FACE,NINE HOLE,PLUNGER&SPHERICAL JOINT/K3V280 PISTON PUMP,CYLINDER BLOCK,FLAT FACE,NINE HOLE,PLUNGER&SPHERICAL JOINT (2).jpg",
+          "alt": "K3V280 PISTON PUMP/CYLINDER BLOCK/FLAT FACE/NINE-HOLE/PLUNGER/SPHERICAL JOINT side view displaying cylinder block structure, flat face mounting, nine plunger holes, and spherical joint connections"
+        },
+        {
+          "url": "images/products/K3V280 PISTON PUMP,CYLINDER BLOCK,FLAT FACE,NINE HOLE,PLUNGER&SPHERICAL JOINT/K3V280 PISTON PUMP,CYLINDER BLOCK,FLAT FACE,NINE HOLE,PLUNGER&SPHERICAL JOINT (3).jpg",
+          "alt": "K3V280 PISTON PUMP/CYLINDER BLOCK/FLAT FACE/NINE-HOLE/PLUNGER/SPHERICAL JOINT detailed view showing internal components, plunger arrangement, spherical joint mechanism, and technical specifications"
+        }
+      ],
+      "description": "High-quality K3V280 PISTON PUMP/CYLINDER BLOCK/FLAT FACE/NINE-HOLE/PLUNGER/SPHERICAL JOINT assembly designed for excavator hydraulic systems. Features nine-hole plunger configuration, flat face mounting design, precision cylinder block, and spherical joint mechanism. Suitable for medium excavator models including Komatsu, Caterpillar, and Hitachi. Complete piston pump assembly for hydraulic system maintenance and repair.",
+      "specifications": {
+        "Model": "K3V280",
+        "Specification": "PISTON PUMP/CYLINDER BLOCK/FLAT FACE/NINE-HOLE/PLUNGER/SPHERICAL JOINT",
+        "Type": "Axial Piston Pump Assembly",
+        "Configuration": "Nine-Hole Plunger",
+        "Mounting": "Flat Face",
+        "Maximum Pressure": "350 bar",
+        "Displacement": "280 cc/rev",
+        "Weight": "15.5 kg",
+        "Dimensions": "28×25×22 cm",
+        "Material": "High-grade cast iron and steel",
+        "Joint Type": "Spherical Joint",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC300-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Hitachi ZX200",
+        "Hitachi ZX220"
+      ],
+      "features": [
+        "Nine-hole plunger configuration",
+        "Flat face mounting design",
+        "Precision cylinder block",
+        "Spherical joint mechanism",
+        "High pressure capability",
+        "Durable construction",
+        "Easy installation",
+        "OEM quality replacement",
+        "Complete assembly",
+        "Long service life"
+      ],
+      "tags": [
+        "piston-pump",
+        "cylinder-block",
+        "flat-face",
+        "nine-hole",
+        "plunger",
+        "spherical-joint",
+        "k3v280",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar",
+        "hitachi"
+      ]
+    },
+    {
+      "id": "PC200-7-Cylinder-block-Nine-hole-cylinder-block-Plunger-Spherical-joint",
+      "name": "PC200-7 Cylinder block/Nine-hole cylinder block/Plunger/Spherical joint",
+      "partNumber": "PC200-7-ASSEMBLY",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200-7",
+        "Komatsu PC200LC-7",
+        "Komatsu PC200-8",
+        "Komatsu PC200LC-8"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 8,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "12.5 kg",
+      "dimensions": "26×23×20 cm",
+      "images": [
+        {
+          "url": "images/products/PC200-7 Cylinder block.Nine-hole cylinder block,Plunger,Spherical joint/PC200-7 Cylinder block.Nine-hole cylinder block,Plunger,Spherical joint.jpg",
+          "alt": "PC200-7 Cylinder block/Nine-hole cylinder block/Plunger/Spherical joint front view showing cylinder block assembly, nine-hole configuration, plunger components, and spherical joint mechanism"
+        },
+        {
+          "url": "images/products/PC200-7 Cylinder block.Nine-hole cylinder block,Plunger,Spherical joint/PC200-7 Cylinder block.Nine-hole cylinder block,Plunger,Spherical joint (2).jpg",
+          "alt": "PC200-7 Cylinder block/Nine-hole cylinder block/Plunger/Spherical joint side view displaying cylinder block structure, nine plunger holes arrangement, and spherical joint connections"
+        },
+        {
+          "url": "images/products/PC200-7 Cylinder block.Nine-hole cylinder block,Plunger,Spherical joint/PC200-7 Cylinder block.Nine-hole cylinder block,Plunger,Spherical joint (3).jpg",
+          "alt": "PC200-7 Cylinder block/Nine-hole cylinder block/Plunger/Spherical joint detailed view showing internal components, plunger arrangement, spherical joint mechanism, and technical specifications"
+        },
+        {
+          "url": "images/products/PC200-7 Cylinder block.Nine-hole cylinder block,Plunger,Spherical joint/PC200-7 Cylinder block.Nine-hole cylinder block,Plunger,Spherical joint (4).jpg",
+          "alt": "PC200-7 Cylinder block/Nine-hole cylinder block/Plunger/Spherical joint comprehensive view displaying complete assembly structure and application guide"
+        }
+      ],
+      "description": "High-quality PC200-7 Cylinder block/Nine-hole cylinder block/Plunger/Spherical joint assembly designed for Komatsu PC200-7 excavator hydraulic pumps. Features nine-hole plunger configuration, precision cylinder block, and spherical joint mechanism. Suitable for Komatsu PC200-7 and PC200LC-7 excavators. Complete assembly for hydraulic pump maintenance and repair.",
+      "specifications": {
+        "Model": "PC200-7-ASSEMBLY",
+        "Specification": "PC200-7 Cylinder block / Nine-hole cylinder block / Plunger / Spherical joint",
+        "Type": "Hydraulic Pump Cylinder Block Assembly",
+        "Configuration": "Nine-Hole Plunger",
+        "Maximum Pressure": "350 bar",
+        "Weight": "12.5 kg",
+        "Dimensions": "26×23×20 cm",
+        "Material": "High-grade cast iron and steel",
+        "Joint Type": "Spherical Joint",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-7",
+        "Komatsu PC200LC-7",
+        "Komatsu PC200-8",
+        "Komatsu PC200LC-8"
+      ],
+      "features": [
+        "Nine-hole plunger configuration",
+        "Precision cylinder block",
+        "Spherical joint mechanism",
+        "High pressure capability",
+        "Durable construction",
+        "Easy installation",
+        "OEM quality replacement",
+        "Complete assembly",
+        "Long service life"
+      ],
+      "tags": [
+        "cylinder-block",
+        "nine-hole",
+        "plunger",
+        "spherical-joint",
+        "pc200-7",
+        "komatsu",
+        "excavator-parts"
+      ]
+    },
+    {
+      "id": "PC210-10K-Cylinder-block-Flat-face-Piston",
+      "name": "PC210-10K Cylinder block/Flat face/Piston",
+      "partNumber": "PC210-10K-ASSEMBLY",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC210-10K",
+        "Komatsu PC210LC-10K",
+        "Komatsu PC210-10",
+        "Komatsu PC210LC-10"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 6,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "14.0 kg",
+      "dimensions": "27×24×21 cm",
+      "images": [
+        {
+          "url": "images/products/PC210-10K Cylinder block,Flat face,Piston/PC210-10K Cylinder block,Flat face,Piston.jpg",
+          "alt": "PC210-10K Cylinder block/Flat face/Piston front view showing cylinder block assembly, flat face mounting design, and piston components"
+        },
+        {
+          "url": "images/products/PC210-10K Cylinder block,Flat face,Piston/PC210-10K Cylinder block,Flat face,Piston (2).jpg",
+          "alt": "PC210-10K Cylinder block/Flat face/Piston side view displaying cylinder block structure, flat face mounting, and piston arrangement"
+        },
+        {
+          "url": "images/products/PC210-10K Cylinder block,Flat face,Piston/PC210-10K Cylinder block,Flat face,Piston (3).jpg",
+          "alt": "PC210-10K Cylinder block/Flat face/Piston detailed view showing internal components, piston arrangement, and technical specifications"
+        },
+        {
+          "url": "images/products/PC210-10K Cylinder block,Flat face,Piston/PC210-10K Cylinder block,Flat face,Piston (4).jpg",
+          "alt": "PC210-10K Cylinder block/Flat face/Piston comprehensive view displaying complete assembly structure and application guide"
+        }
+      ],
+      "description": "High-quality PC210-10K Cylinder block/Flat face/Piston assembly designed for Komatsu PC210-10K excavator hydraulic pumps. Features flat face mounting design, precision cylinder block, and piston components. Suitable for Komatsu PC210-10K and PC210LC-10K excavators. Complete assembly for hydraulic pump maintenance and repair.",
+      "specifications": {
+        "Model": "PC210-10K-ASSEMBLY",
+        "Specification": "PC210-10K Cylinder block / Flat face / Piston",
+        "Type": "Hydraulic Pump Cylinder Block Assembly",
+        "Mounting": "Flat Face",
+        "Maximum Pressure": "350 bar",
+        "Weight": "14.0 kg",
+        "Dimensions": "27×24×21 cm",
+        "Material": "High-grade cast iron and steel",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC210-10K",
+        "Komatsu PC210LC-10K",
+        "Komatsu PC210-10",
+        "Komatsu PC210LC-10"
+      ],
+      "features": [
+        "Flat face mounting design",
+        "Precision cylinder block",
+        "High-quality piston components",
+        "High pressure capability",
+        "Durable construction",
+        "Easy installation",
+        "OEM quality replacement",
+        "Complete assembly",
+        "Long service life"
+      ],
+      "tags": [
+        "cylinder-block",
+        "flat-face",
+        "piston",
+        "pc210-10k",
+        "komatsu",
+        "excavator-parts"
+      ]
+    },
+    {
+      "id": "HYDRAULIC-CYLINDER-SEAL",
+      "name": "HYDRAULIC CYLINDER SEAL",
+      "partNumber": "CYLINDER-SEAL",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200",
+        "Caterpillar 330D"
+      ],
+      "category": "hydraulic",
+      "subcategory": "seals",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 45,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "0.3 kg",
+      "dimensions": "Various sizes",
+      "images": [
+        {
+          "url": "images/products/HYDRAULIC CYLINDER SEAL FOR EXCAVATOR/HYDRAULIC CYLINDER SEAL FOR EXCAVATOR.jpg",
+          "alt": "HYDRAULIC CYLINDER SEAL front view showing seal components, design structure, and application for excavator hydraulic cylinders"
+        },
+        {
+          "url": "images/products/HYDRAULIC CYLINDER SEAL FOR EXCAVATOR/HYDRAULIC CYLINDER SEAL FOR EXCAVATOR (2).jpg",
+          "alt": "HYDRAULIC CYLINDER SEAL detailed view displaying seal cross-section, material composition, and technical specifications"
+        },
+        {
+          "url": "images/products/HYDRAULIC CYLINDER SEAL FOR EXCAVATOR/HYDRAULIC CYLINDER SEAL FOR EXCAVATOR (3).jpg",
+          "alt": "HYDRAULIC CYLINDER SEAL side view showing seal installation guide, compatibility information, and application details"
+        }
+      ],
+      "description": "High-quality HYDRAULIC CYLINDER SEAL designed specifically for excavator hydraulic cylinders. Features excellent sealing performance, durability, and resistance to high pressure and temperature. Suitable for various excavator models including Komatsu, Caterpillar, and Hitachi. Provides reliable sealing solution for hydraulic cylinder maintenance and repair.",
+      "specifications": {
+        "Model": "CYLINDER-SEAL",
+        "Specification": "HYDRAULIC CYLINDER SEAL FOR EXCAVATOR",
+        "Type": "Hydraulic Cylinder Seal",
+        "Maximum Pressure": "350 bar",
+        "Temperature Range": "-40°C to +100°C",
+        "Material": "NBR, Polyurethane, PTFE",
+        "Weight": "0.3 kg",
+        "Dimensions": "Various sizes",
+        "Compatibility": "Multiple excavator models",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Caterpillar 330D",
+        "Hitachi ZX200",
+        "Hitachi ZX220",
+        "Hitachi ZX330"
+      ],
+      "features": [
+        "Excellent sealing performance",
+        "High pressure resistance",
+        "Temperature resistant",
+        "Durable materials",
+        "Easy installation",
+        "OEM quality replacement",
+        "Suitable for multiple excavator models",
+        "Long service life"
+      ],
+      "tags": [
+        "hydraulic-seal",
+        "cylinder-seal",
+        "excavator-seal",
+        "seal-kit",
+        "komatsu",
+        "caterpillar",
+        "hitachi",
+        "excavator-parts"
+      ]
+    },
+    {
+      "id": "SKELETON-OIL-SEAL-ROTATING-SEAL",
+      "name": "SKELETON OIL SEAL ROTATING SEAL",
+      "partNumber": "SKELETON-OIL-SEAL",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200",
+        "Various Excavators"
+      ],
+      "category": "hydraulic",
+      "subcategory": "seals",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 40,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "0.2 kg",
+      "dimensions": "Various sizes",
+      "images": [
+        {
+          "url": "images/products/SKELETON OIL SEAL ROTATING SEAL/SKELETON OIL SEAL ROTATING SEAL.jpg",
+          "alt": "SKELETON OIL SEAL ROTATING SEAL front view showing skeleton oil seal design, rotating seal components, and application for hydraulic systems"
+        },
+        {
+          "url": "images/products/SKELETON OIL SEAL ROTATING SEAL/SKELETON OIL SEAL ROTATING SEAL (2).jpg",
+          "alt": "SKELETON OIL SEAL ROTATING SEAL detailed view displaying seal cross-section, material composition, and technical specifications"
+        },
+        {
+          "url": "images/products/SKELETON OIL SEAL ROTATING SEAL/SKELETON OIL SEAL ROTATING SEAL (3).jpg",
+          "alt": "SKELETON OIL SEAL ROTATING SEAL side view showing installation guide, compatibility information, and application details for rotating machinery"
+        }
+      ],
+      "description": "High-quality SKELETON OIL SEAL ROTATING SEAL designed for hydraulic systems and rotating machinery. Features excellent sealing performance, oil resistance, and durability. Suitable for various excavator models and industrial applications. Provides reliable sealing solution for rotating shafts and hydraulic components.",
+      "specifications": {
+        "Model": "SKELETON-OIL-SEAL",
+        "Specification": "SKELETON OIL SEAL ROTATING SEAL",
+        "Type": "Skeleton Oil Seal / Rotating Seal",
+        "Application": "Rotating Shaft Sealing",
+        "Maximum Pressure": "350 bar",
+        "Temperature Range": "-40°C to +120°C",
+        "Material": "NBR, FKM, PTFE",
+        "Weight": "0.2 kg",
+        "Dimensions": "Various sizes",
+        "Compatibility": "Multiple excavator models",
+        "Oil Resistance": "Excellent",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200-8",
+        "Komatsu PC220-8",
+        "Komatsu PC200LC-8",
+        "Caterpillar 320D",
+        "Caterpillar 320DL",
+        "Caterpillar 330D",
+        "Hitachi ZX200",
+        "Hitachi ZX220",
+        "Hitachi ZX330",
+        "Various Excavators"
+      ],
+      "features": [
+        "Excellent sealing performance",
+        "Oil resistant",
+        "High pressure resistance",
+        "Temperature resistant",
+        "Durable materials",
+        "Easy installation",
+        "Rotating seal design",
+        "Skeleton structure",
+        "Long service life",
+        "OEM quality replacement",
+        "Multiple sizes available",
+        "Wear resistant"
+      ],
+      "tags": [
+        "oil-seal",
+        "rotating-seal",
+        "skeleton-seal",
+        "hydraulic-seal",
+        "excavator-seal",
+        "seal-kit",
+        "komatsu",
+        "caterpillar",
+        "hitachi",
+        "excavator-parts",
+        "hydraulic-components",
+        "rotating-machinery"
+      ]
+    },
+    {
+      "id": "SHAFTS-COUNTER-SHAFTS-SPLINED-SHAFTS",
+      "name": "SHAFTS/COUNTER SHAFTS(SPLINED SHAFTS)",
+      "partNumber": "MAIN-COUNTER-SHAFTS",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Komatsu PC200",
+        "Komatsu PC220",
+        "Caterpillar 320D",
+        "Hitachi ZX200",
+        "Various Excavators"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 20,
+      "stockStatus": "in-stock",
+      "leadTime": "5-7 business days",
+      "weight": "18.0 kg",
+      "dimensions": "Various lengths",
+      "images": [
+        {
+          "url": "images/products/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS)/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) (1).jpg",
+          "alt": "MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) front view showing main shafts, counter shafts, and splined shaft geometry for hydraulic pumps and gearboxes"
+        },
+        {
+          "url": "images/products/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS)/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) (6).jpg",
+          "alt": "MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) detailed view displaying splined sections, machining quality, and material surface finish"
+        },
+        {
+          "url": "images/products/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS)/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) (9).jpg",
+          "alt": "MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) side view showing different shaft lengths, spline profiles, and application options"
+        },
+        {
+          "url": "images/products/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS)/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) (10).jpg",
+          "alt": "MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) group view showing multiple shafts, counter shafts, and splined shafts for various hydraulic and transmission systems"
+        },
+        {
+          "url": "images/products/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS)/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) (11).jpg",
+          "alt": "MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) close-up view of spline teeth, keyways, and precision machining details"
+        },
+        {
+          "url": "images/products/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS)/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) (12).jpg",
+          "alt": "MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) perspective view showing shaft alignment, bearing seats, and connection interfaces"
+        },
+        {
+          "url": "images/products/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS)/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) (13).jpg",
+          "alt": "MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) layout view displaying multiple splined shafts arranged for comparison of sizes and profiles"
+        },
+        {
+          "url": "images/products/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS)/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) (14).jpg",
+          "alt": "MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) technical view showing shaft ends, chamfers, and mounting features"
+        },
+        {
+          "url": "images/products/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS)/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) (15).jpg",
+          "alt": "MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) detailed view of counter shafts and splined connections used in excavator transmissions"
+        },
+        {
+          "url": "images/products/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS)/MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) (16).jpg",
+          "alt": "MAIN SHAFTS-COUNTER SHAFTS(SPLINED SHAFTS) complete set showing main shafts, counter shafts, and splined shafts for hydraulic pumps and gearboxes"
+        }
+      ],
+      "description": "High-quality SHAFTS/COUNTER SHAFTS(SPLINED SHAFTS) designed for hydraulic pumps, gearboxes, and excavator transmission systems. Features precision machined splines, high-strength materials, and excellent durability. Suitable for Komatsu, Caterpillar, Hitachi and other excavator brands. Provides reliable power transmission and long service life.",
+      "specifications": {
+        "Model": "MAIN-COUNTER-SHAFTS",
+        "Specification": "MAIN SHAFTS / COUNTER SHAFTS / SPLINED SHAFTS",
+        "Type": "Transmission Shaft Components",
+        "Application": "Hydraulic Pumps and Gearboxes",
+        "Material": "Alloy Steel / High-strength Steel",
+        "Heat Treatment": "Quenched and Tempered",
+        "Surface Hardness": "HRC 58-62 (spline area)",
+        "Dimensions": "Various lengths and diameters",
+        "Precision": "High precision machining",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Komatsu PC200 Series",
+        "Komatsu PC220 Series",
+        "Caterpillar 320 Series",
+        "Hitachi ZX200 Series",
+        "Various Excavators and Hydraulic Systems"
+      ],
+      "features": [
+        "High-strength alloy steel construction",
+        "Precision machined splines",
+        "Excellent wear resistance",
+        "High torque transmission capability",
+        "Heat treated for long service life",
+        "Compatible with multiple excavator models",
+        "Smooth power transmission",
+        "OEM quality replacement",
+        "Various sizes and configurations available",
+        "Suitable for hydraulic pumps and gearboxes"
+      ],
+      "tags": [
+        "shaft",
+        "counter-shaft",
+        "splined-shaft",
+        "transmission-shaft",
+        "hydraulic-pump-shaft",
+        "excavator-parts",
+        "komatsu",
+        "caterpillar",
+        "hitachi",
+        "power-transmission"
+      ]
+    },
+    {
+      "id": "EX120-Kawasaki-PC200-7-E320-PC200-8-RELIEF-VALVES",
+      "name": "EX120/Kawasaki/PC200-7/E320/PC200-8 RELIEF VALVES",
+      "partNumber": "RELIEF-VALVES",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Hitachi EX120",
+        "Kawasaki",
+        "Komatsu PC200-7",
+        "Caterpillar E320",
+        "Komatsu PC200-8"
+      ],
+      "category": "hydraulic",
+      "subcategory": "valves",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 12,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "1.8 kg",
+      "dimensions": "10×8×9 cm",
+      "images": [
+        {
+          "url": "images/products/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES.jpg",
+          "alt": "EX120/Kawasaki/PC200-7/E320/PC200-8 RELIEF VALVES front view showing relief valve body, pressure adjustment mechanism, and hydraulic port connections"
+        },
+        {
+          "url": "images/products/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES (2).jpg",
+          "alt": "EX120/Kawasaki/PC200-7/E320/PC200-8 RELIEF VALVES side view displaying valve housing, identification markings, and mounting points"
+        },
+        {
+          "url": "images/products/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES (3).jpg",
+          "alt": "EX120/Kawasaki/PC200-7/E320/PC200-8 RELIEF VALVES detailed view showing internal components, spring mechanism, and pressure relief design"
+        },
+        {
+          "url": "images/products/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES (4).jpg",
+          "alt": "EX120/Kawasaki/PC200-7/E320/PC200-8 RELIEF VALVES rear view displaying hydraulic connections, seals, and technical specifications"
+        },
+        {
+          "url": "images/products/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES (5).jpg",
+          "alt": "EX120/Kawasaki/PC200-7/E320/PC200-8 RELIEF VALVES additional view showing complete valve assembly, components layout, and installation details"
+        },
+        {
+          "url": "images/products/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES/EX120,Kawasaki,PC200-7,E320,PC200-8 RELIEF VALVES (6).jpg",
+          "alt": "EX120/Kawasaki/PC200-7/E320/PC200-8 RELIEF VALVES technical view showing valve internals, pressure relief mechanism, and performance characteristics"
+        }
+      ],
+      "description": "High-quality RELIEF VALVES designed for multiple excavator models including Hitachi EX120, Kawasaki, Komatsu PC200-7, Caterpillar E320, and Komatsu PC200-8. Features reliable pressure relief protection, excellent response time, and durable construction. Provides essential safety function for hydraulic systems by preventing overpressure conditions.",
+      "specifications": {
+        "Model": "RELIEF-VALVES",
+        "Specification": "EX120/Kawasaki/PC200-7/E320/PC200-8 RELIEF VALVES",
+        "Type": "Hydraulic Relief Valve",
+        "Maximum Pressure": "350 bar",
+        "Relief Pressure": "Adjustable",
+        "Flow Rate": "Up to 100 L/min",
+        "Response Time": "< 10ms",
+        "Weight": "1.8 kg",
+        "Dimensions": "10×8×9 cm",
+        "Material": "High-grade steel and brass",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Hitachi EX120",
+        "Hitachi EX120-3",
+        "Hitachi EX120-5",
+        "Kawasaki Excavators",
+        "Komatsu PC200-7",
+        "Komatsu PC200LC-7",
+        "Caterpillar E320",
+        "Caterpillar E320D",
+        "Komatsu PC200-8",
+        "Komatsu PC200LC-8"
+      ],
+      "features": [
+        "Reliable pressure relief protection",
+        "Fast response time",
+        "Adjustable relief pressure",
+        "Durable construction",
+        "High pressure capability",
+        "Easy installation",
+        "OEM quality replacement",
+        "Suitable for multiple excavator models",
+        "Prevents system overpressure",
+        "Long service life"
+      ],
+      "tags": [
+        "relief-valve",
+        "safety-valve",
+        "hydraulic-valve",
+        "pressure-valve",
+        "hitachi-ex120",
+        "kawasaki",
+        "komatsu-pc200",
+        "caterpillar-e320",
+        "excavator-parts",
+        "hydraulic-components"
+      ]
+    },
+    {
+      "id": "Cartridge-Relief-Assembly-419-43-27510",
+      "name": "Cartridge Relief Assembly 419-43-27510",
+      "partNumber": "419-43-27510",
+      "oemNumber": "419-43-27510",
+      "brand": "others",
+      "model": [
+        "Caterpillar",
+        "Various Excavators",
+        "Hydraulic Systems"
+      ],
+      "category": "hydraulic",
+      "subcategory": "valves",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 15,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "2.2 kg",
+      "dimensions": "11×9×10 cm",
+      "images": [
+        {
+          "url": "images/products/Cartridge Relief Assembly 419-43-27510/Cartridge Relief Assembly 419-43-27510.png",
+          "alt": "Cartridge Relief Assembly 419-43-27510 front view showing cartridge relief valve body, pressure adjustment mechanism, and hydraulic port connections"
+        },
+        {
+          "url": "images/products/Cartridge Relief Assembly 419-43-27510/Cartridge Relief Assembly 419-43-27510 (2).png",
+          "alt": "Cartridge Relief Assembly 419-43-27510 side view displaying valve housing, identification markings, mounting points, and technical specifications"
+        }
+      ],
+      "description": "High-quality Cartridge Relief Assembly 419-43-27510 designed for excavator hydraulic systems. Features reliable pressure relief protection, excellent response time, and durable cartridge design. Suitable for Caterpillar and various excavator models. Provides essential safety function for hydraulic systems by preventing overpressure conditions.",
+      "specifications": {
+        "Model": "419-43-27510",
+        "Specification": "Cartridge Relief Assembly 419-43-27510",
+        "Type": "Cartridge Relief Valve",
+        "Maximum Pressure": "350 bar",
+        "Relief Pressure": "Adjustable",
+        "Flow Rate": "Up to 120 L/min",
+        "Response Time": "< 10ms",
+        "Weight": "2.2 kg",
+        "Dimensions": "11×9×10 cm",
+        "Material": "High-grade steel and brass",
+        "Mounting": "Cartridge Type",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Caterpillar Excavators",
+        "Caterpillar 320 Series",
+        "Caterpillar 330 Series",
+        "Various Hydraulic Systems",
+        "Excavator Hydraulic Circuits"
+      ],
+      "features": [
+        "Cartridge design for easy installation",
+        "Reliable pressure relief protection",
+        "Fast response time",
+        "Adjustable relief pressure",
+        "Durable construction",
+        "High pressure capability",
+        "Easy maintenance",
+        "OEM quality replacement",
+        "Prevents system overpressure",
+        "Long service life"
+      ],
+      "tags": [
+        "cartridge-relief-valve",
+        "relief-valve",
+        "safety-valve",
+        "hydraulic-valve",
+        "pressure-valve",
+        "419-43-27510",
+        "caterpillar",
+        "excavator-parts",
+        "hydraulic-components",
+        "cartridge-assembly"
+      ]
+    },
+    {
+      "id": "Turbocharger-20515585",
+      "name": "Turbocharger 20515585",
+      "partNumber": "20515585",
+      "oemNumber": "20515585",
+      "brand": "others",
+      "model": [
+        "Caterpillar",
+        "Various Excavators",
+        "Construction Equipment"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "stock": 8,
+      "stockStatus": "in-stock",
+      "leadTime": "5-7 business days",
+      "weight": "12.5 kg",
+      "dimensions": "25×20×18 cm",
+      "images": [
+        {
+          "url": "images/products/Turbocharger 20515585/1.png",
+          "alt": "Turbocharger 20515585 front view showing turbocharger housing, compressor wheel, turbine housing, and mounting flange connections"
+        },
+        {
+          "url": "images/products/Turbocharger 20515585/2.png",
+          "alt": "Turbocharger 20515585 side view displaying turbocharger assembly, oil inlet/outlet ports, and identification markings"
+        },
+        {
+          "url": "images/products/Turbocharger 20515585/3.png",
+          "alt": "Turbocharger 20515585 detailed view showing internal components, compressor and turbine sections, and technical specifications"
+        }
+      ],
+      "description": "High-quality Turbocharger 20515585 designed for excavator and construction equipment engines. Features efficient turbocharging performance, durable construction, and excellent reliability. Suitable for Caterpillar and various excavator models. Provides enhanced engine power and efficiency for heavy-duty applications.",
+      "specifications": {
+        "Model": "20515585",
+        "Specification": "Turbocharger 20515585",
+        "Type": "Turbocharger",
+        "Application": "Diesel Engine",
+        "Compressor Wheel": "Aluminum Alloy",
+        "Turbine Wheel": "Nickel Alloy",
+        "Maximum Boost Pressure": "Variable",
+        "Weight": "12.5 kg",
+        "Dimensions": "25×20×18 cm",
+        "Material": "Cast Iron Housing, Alloy Wheels",
+        "Oil Type": "Engine Oil",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Caterpillar Excavators",
+        "Caterpillar 320 Series",
+        "Caterpillar 330 Series",
+        "Caterpillar 336 Series",
+        "Various Construction Equipment",
+        "Heavy-Duty Diesel Engines"
+      ],
+      "features": [
+        "Efficient turbocharging performance",
+        "Durable construction",
+        "High-quality materials",
+        "Enhanced engine power",
+        "Improved fuel efficiency",
+        "Reliable operation",
+        "Easy installation",
+        "OEM quality replacement",
+        "Suitable for heavy-duty applications",
+        "Long service life"
+      ],
+      "tags": [
+        "turbocharger",
+        "turbo",
+        "20515585",
+        "caterpillar",
+        "excavator-parts",
+        "engine-parts",
+        "construction-equipment",
+        "diesel-engine",
+        "power-enhancement"
+      ]
+    },
+    {
+      "id": "Excavator-Models-Volvo-EC200-EC210-EC220-EC240-EC250-EC290-EC300",
+      "name": "Excavator Models Volvo EC200/EC210/EC220/EC240/EC250/EC290/EC300",
+      "partNumber": "Volvo-EC-Series",
+      "oemNumber": "N/A",
+      "brand": "others",
+      "model": [
+        "Volvo EC200",
+        "Volvo EC210",
+        "Volvo EC220",
+        "Volvo EC240",
+        "Volvo EC250",
+        "Volvo EC290",
+        "Volvo EC300"
+      ],
+      "category": "hydraulic",
+      "subcategory": "pumps",
+      "hasPrice": true,
+      "pricePosition": "after-name",
+      "price": "35.86 - 75.86 USD",
+      "stock": 25,
+      "stockStatus": "in-stock",
+      "leadTime": "3-5 business days",
+      "weight": "N/A",
+      "dimensions": "Various",
+      "images": [
+        {
+          "url": "images/products/Excavator Models Volvo EC200, EC210, EC220, EC240, EC250, EC290, EC300/1.png",
+          "alt": "Excavator Models Volvo EC200/EC210/EC220/EC240/EC250/EC290/EC300 product overview showing compatibility information and model specifications"
+        }
+      ],
+      "description": "Comprehensive parts and components for Volvo excavator models EC200, EC210, EC220, EC240, EC250, EC290, and EC300. High-quality replacement parts designed to meet OEM specifications. Suitable for various Volvo EC series excavators. Contact us for specific part numbers and detailed compatibility information.",
+      "specifications": {
+        "Model": "Volvo EC Series",
+        "Specification": "EC200/EC210/EC220/EC240/EC250/EC290/EC300",
+        "Compatible Models": "Volvo EC200, EC210, EC220, EC240, EC250, EC290, EC300",
+        "Price Range": "35.86 - 75.86 USD",
+        "Type": "Excavator Parts & Components",
+        "Application": "Volvo EC Series Excavators",
+        "Warranty": "12 months"
+      },
+      "compatibility": [
+        "Volvo EC200",
+        "Volvo EC200LC",
+        "Volvo EC210",
+        "Volvo EC210LC",
+        "Volvo EC220",
+        "Volvo EC220LC",
+        "Volvo EC240",
+        "Volvo EC240LC",
+        "Volvo EC250",
+        "Volvo EC250LC",
+        "Volvo EC290",
+        "Volvo EC290LC",
+        "Volvo EC300",
+        "Volvo EC300LC"
+      ],
+      "features": [
+        "OEM quality replacement",
+        "Wide model compatibility",
+        "High-quality materials",
+        "Reliable performance",
+        "Easy installation",
+        "Competitive pricing",
+        "Long service life",
+        "Suitable for multiple Volvo EC models"
+      ],
+      "tags": [
+        "volvo",
+        "ec200",
+        "ec210",
+        "ec220",
+        "ec240",
+        "ec250",
+        "ec290",
+        "ec300",
+        "excavator-parts",
+        "volvo-excavator",
+        "construction-equipment"
+      ]
+    }
+  ]
+}
+
